@@ -1,0 +1,343 @@
+1	TMPO-AS1 
+2	FAM99A  FAM99A 
+3	rs55829688 T>C   
+4	AFAP1-AS1 
+5	6	7	GASL1 TGF-β1 
+8	OXCT1-AS1 
+9	10	 lncKBTBD10 
+11	           
+12	           
+13	 
+14	Neat1L   
+15	NKX2-1-AS1  
+16	VPS9D1 
+17	 
+18	lncRNA-ATB lncRNA-ATB  lncRNA-ATB TGF-β1  TGF-β1 lncRNA-ATB lncRNA-ATB 
+19	  
+20	  
+21	AFAP1-AS1 
+22	 
+23	 
+24	 
+25	  
+26	  
+27	28	miR-367-3p   
+29	  
+30	  
+31	FOXF1-AS1 
+32	33	LINC00657 
+34	lncRNA-Map2k4-m 
+35	 
+36	 
+37	TUSC7   
+38	39	AER-lncRNA   ER&#945   
+40	 
+41	42	 
+43	 
+44	45	46	47	48	49	 
+50	51	   
+52	  
+53	LINC00052 
+54	55	   
+56	   
+57	58	59	60	61	 
+62	63	 
+64	65	         
+66	 
+67	 
+68	Wilms'  Wilms' 
+69	70	71	72	postneoplastic    
+73	74	  
+75	           
+76	           
+77	           
+78	79	    
+80	    
+81	    
+82	   3%    
+83	   3%    
+84	85	86	 
+87	 Rathke's 
+88	 
+89	  
+90	91	   
+92	93	94	   
+95	  
+96	97	  
+98	   
+99	   
+100	  
+101	MIR210HG   
+102	MIR210HG  
+103	MIR210HG MIR210HG   
+104	AMIR210HG MIR210HG   
+105	 MIR210HG  
+106	 
+107	MIR503HG miR-1273c  
+108	  FAM224A          
+109	  FAM224A FAM224A   FAM224A  
+110	FENDRR 
+111	FENDRR 
+112	LINC00689 
+113	LINC00511    Hela/PTX 
+114	  LINC00511  Hela/PTX 
+115	116	 
+117	   NF-κB/iNOS  p<005   
+118	      
+119	120	121	122	123	124	    
+125	    
+126	127	128	129	RNA-pulldown linc00423  
+130	linc00423 
+131	RNA-pulldown linc00423  
+132	linc00423 
+133	LINK-A K48-polyubiquitination-mediated  
+134	SGO1-AS1  
+135	 OTUD6B-AS1 
+136	TGFβ OTUD6B-AS1 pro-fibrotic/proinflammatory 
+137	TGFβ OTUD6B-AS1 pro-fibrotic/proinflammatory 
+138	 OTUD6B-AS1 OTUD6B-AS1  
+139	OTUD6B-AS1  
+140	141	 U17HG-interacting  
+142	 U17HG-interacting  
+143	IGFBPrP1-induced   
+144	  
+145	 IGFBPrP1-induced 
+146	  
+147	  
+148	         
+149	p-PI3K/PI3K 
+150	151	LINC01410 
+152	lncRNA-ATB factor-κB  NF-κB   TGF-β  
+153	lncRNA-ATB TGF-β-mediated    
+154	155	156	lncIHS  HBx-SMYD3  lncIHS 
+157	lncIHS  HBx-SMYD3  lncIHS 
+158	    
+159	    
+160	    
+161	 
+162	  Hodgkin's          pcDNA-H19 
+163	164	165	    TNF-α  IL-1β  
+166	  /NF-κB-mediated 
+167	      
+168	      
+169	Lentivirus-constructed  Lenti-siRNA-NEAT1   
+170	  
+171	auxo-active  
+172	 GHET1 
+173	GHET1 GHET1 
+174	  
+175	176	Bal-2 
+177	Bal-2 
+178	Bal-2 
+179	Bal-2 
+180	Bal-2 
+181	 
+182	 
+183	  
+184	miR-193a-targeted lncRNA-UCA1 lncRNA-UCA1 lncRNA-UCA1 lncRNA-UCA1   
+185	186	187	188	miR-185-5p β-Catenin/TCF-4 Ⅱ 
+189	190	191	 
+192	LncRNA-UCA1 
+193	LINC00052 
+194	  FOXD1-AS1 
+195	FOXD1-AS1 miR339/342 
+196	197	198	LINC00052 
+199	miR-337-3p's 
+200	201	DDX11-AS1 
+202	DDX11-AS1 
+203	DDX11-AS1 
+204	α  interferon-γ 
+205	    DDX11-AS1  DDX11-AS1     DDX11-AS1 
+206	    DDX11-AS1  DDX11-AS1     DDX11-AS1 
+207	MFI2-AS1  
+208	 
+209	LINC00313     
+210	 LINC00313  LINC00313 
+211	LINC00313   
+212	 LINC00313  LINC00313   
+213	 LINC00313  LINC00313   
+214	 LINC00313  LINC00313  
+215	LINC00313   
+216	RHPN1-AS1  RHPN1-AS1 
+217	RHPN1-AS1 miR-4261  RHPN1-AS1 
+218	 PYCARD-AS1  
+219	PYCARD-regulated PYCARD-AS1   PYCARD-AS1 PYCARD-dependent  PYCARD-AS1 
+220	 
+221	222	223	 H19-signaling 
+224	lncRNA-H19  
+225	    
+226	    
+227	 
+228	  
+229	   miR-148b-3p    
+230	 miR-148b-3p 
+231	miR-148b-3p 
+232	  miR-148b-3p  miR-148b-3p 
+233	 microRNA-148b-3p  
+234	 AFAP1-AS1 
+235	 AFAP1-AS1 AFAP1-AS1  
+236	 LUCAT1 
+237	LUCAT1 LUCAT1  
+238	LINC00460     
+239	LINC00460     
+240	 LINC00460/miR-206/STC2 LINC00460 
+241	 LINC00460 
+242	AFAP1-AS1       
+243	 AFAP1-AS1   
+244	 AFAP1-AS1   
+245	AFAP1-AS1 
+246	 AFAP1-AS1 AFAP1-AS1/LSD1/HBP1 
+247	 AFAP1-AS1 AFAP1-AS1/LSD1/HBP1 
+248	  NF-κB NF-κB  
+249	  NF-κB NF-κB  
+250	 
+251	     
+252	 00511  LINC00511    LINC00511     
+253	   
+254	   
+255	 miR-6796-3p  miR-30d-5p  miR-3192-3p  miR-6776-3p         lnc-TIGD1L2-3  lnc-KIN-1  lnc-FAM72B-4  lnc-EVI5L-1  lnc-SERPINI1-2  lnc-MB-6  
+256	 miR-6796-3p  miR-30d-5p  miR-3192-3p  miR-6776-3p         lnc-TIGD1L2-3  lnc-KIN-1  lnc-FAM72B-4  lnc-EVI5L-1  lnc-SERPINI1-2  lnc-MB-6  
+257	 miR-6796-3p  miR-30d-5p  miR-3192-3p  miR-6776-3p         lnc-TIGD1L2-3  lnc-KIN-1  lnc-FAM72B-4  lnc-EVI5L-1  lnc-SERPINI1-2  lnc-MB-6  
+258	 LINC00467 
+259	LINC00467 Wnt/β-catenin 
+260	  
+261	   
+262	  IκBα    
+263	     
+264	     
+265	     
+266	11p155   
+267	  
+268	  
+269	   
+270	  
+271	 LINC00672   LINC00672  LINC00672  LINC00672 50%  
+272	 LINC00672   LINC00672  LINC00672  LINC00672 50%  
+273	LINC00672   
+274	  
+275	CASC2c cellsCASC2c  
+276	 LINC01213  LINC01133 LOC284578  PGM5-AS1 
+277	 LINC01213  LINC01133 LOC284578  PGM5-AS1 
+278	 LINC01213  LINC01133 LOC284578  PGM5-AS1 
+279	 
+280	 
+281	282	   
+283	  
+284	 FLRL1  FLRL6 FLRL2       
+285	 FLRL1  FLRL6 FLRL2       
+286	 FLRL1  FLRL6 FLRL2       
+287	 FLRL1  FLRL6 FLRL2       
+288	 FLRL1  FLRL6 FLRL2       
+289	 FLRL1  FLRL6 FLRL2       
+290	 FLRL1  FLRL6 FLRL2       
+291	 FLRL1  FLRL6 FLRL2       
+292	 FLRL1  FLRL6 FLRL2       
+293	FLRL2  
+294	 FLRL2 
+295	 FLRL2  
+296	SNHG20       
+297	SNHG20       
+298	 SNHG20   
+299	 SNHG20   
+300	SNHG20   
+301	cycle-relative 
+302	        
+303	        
+304	   
+305	 
+306	Linc00441 
+307	 Linc00441 
+308	lncRNA-MODR lncRNA-MODR  lncRNA-MODR    
+309	lncRNA-MODR microRNA-454   mi-454-mediated 
+310	 
+311	 
+312	 
+313	314	315	   
+316	  11p155       
+317	  11p155       
+318	    
+319	      
+320	      
+321	      
+322	      
+323	324	325	326	327	        
+328	        
+329	330	331	    
+332	   
+333	    
+334	   
+335	   
+336	 
+337	 
+338	     
+339	     
+340	     
+341	     
+342	   
+343	   
+344	     
+345	     
+346	     
+347	 
+348	   
+349	   
+350	   
+351	352	        -Rn32385   
+353	    
+354	    
+355	356	    
+357	    
+358	   
+359	   
+360	   
+361	  e125  
+362	          
+363	          
+364	          
+365	   
+366	   
+367	     
+368	     
+369	coupregulation  
+370	coupregulation  
+371	  patients' 
+372	    
+373	    
+374	  
+375	  
+376	  
+377	  offspring's    
+378	  offspring's    
+379	  offspring's    
+380	  offspring's    
+381	 
+382	    
+383	 linc-POU3F3   
+384	 
+385	 
+386	        
+387	        
+388	        
+389	  
+390	391	 
+392	 CDKN2A-p16INK  CDKN2A-p16INK 
+393	FOXCUT    
+394	LEF1NAT  miR-544a  
+395	SNHG15    
+396	SNHG15    
+397	SNHG15    
+398	SNHG15    
+399	SMIM31  miR-143-5p 
+400	  RP11-206M117    TMSB4× 
+401	  RP11-206M117    TMSB4× 
+402	  RP11-206M117    TMSB4× 
+403	  RP11-206M117    TMSB4× 
+404	  RP11-206M117    TMSB4× 
+405	  RP11-206M117    TMSB4× 
+406	 CTXND1     
+407	   
+408	 
+409	   
+11870
+
+1397
