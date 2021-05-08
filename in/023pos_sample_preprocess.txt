@@ -1,0 +1,412 @@
+Evx1os	MLL1	Evx1os associate with trimethylated H3K4 histone and MLL1 suggest a role in epigenetic regulation of homeotic locus during ES cell differentiation 	
+MIRT1	GBP	GBP which encode the lectin galactoside-binding soluble 3 be significantly correlate with MIRT1 and MIRT2 	
+MIRT1	Nppb	Nppb the gene which encode BNP be correlate with MIRT1 and show a 4-fold increase in expression after MI 	
+7SLRNA	SRP9	SRP9 bind 7SLRNA 	
+7SLRNA	Srp68	Srp68 bind 7SLRNA 	
+VL30	Sfpq	VL30 RNA bind and release Sfpq from Rab23 	
+VL30	Sfpq	Binding of mouse VL30 retrotransposon RNA to Sfpq protein induces gene repress by Sfpq effect on steroidogenesis and oncogenesis 	
+ADAMTS9-AS2	DNMT1	DNMT1 knockdown lead to remarkable enhancement of ADAMTS9-AS2 expression 	
+gadd7	Tardbp	gadd7 bind directly to Tardbp and promote the degradation of Cdk6 mRNA 	
+AK294004	CCND1	lncRNA AK294004 directly target CCND1 expression by it exon 1 part but not the exon 2 part thus lead to the decrease CCND1 expression through some inhibition mechanism 	
+AOC4	HSP90AB2P	Our result show that several protein NCL HSP90AB2P PKM VIM PCNA EEF1A1 MDH2 include vimentin bind to AOC4 	
+AOC4	PKM	Our result show that several protein NCL HSP90AB2P PKM VIM PCNA EEF1A1 MDH2 include vimentin bind to AOC4 	
+AOC4	VIM	Our result show that several protein NCL HSP90AB2P PKM VIM PCNA EEF1A1 MDH2 include vimentin bind to AOC4 	
+AOC4	PCNA	Our result show that several protein NCL HSP90AB2P PKM VIM PCNA EEF1A1 MDH2 include vimentin bind to AOC4 	
+AOC4	EEF1A1	Our result show that several protein NCL HSP90AB2P PKM VIM PCNA EEF1A1 MDH2 include vimentin bind to AOC4 	
+AOC4	MDH2	Our result show that several protein NCL HSP90AB2P PKM VIM PCNA EEF1A1 MDH2 include vimentin bind to AOC4 	
+AOC4	NCL	Our result show that several protein NCL HSP90AB2P PKM VIM PCNA EEF1A1 MDH2 include vimentin bind to AOC4 	
+SNM1B	TFL2	the dynamic PID-APOLO chromatin loop depend on the plant PRC1 component TFL2 through bind to SNM1B RNA 	
+APTR	EZH2	in vitro transcribed biotinylated sense APTR associate in vitro with cellular EZH2 and SUZ12 and pull them down on streptavidin bead 	
+APTR	SUZ12	in vitro transcribed biotinylated sense APTR associate in vitro with cellular EZH2 and SUZ12 and pull them down on streptavidin bead 	
+BANCR	MAPK14	When BANCR be up-regulated MAPK14 and MAPK8 pathway be both inactivate 	
+BANCR	MAPK8	When BANCR be up-regulated MAPK14 and MAPK8 pathway be both inactivate 	
+BANCR	CDKN1A	BANCR suppress the proliferation of colorectal cancer cell by target CDKN1A 	
+Bc1	Eif4a1	Bc1 RNA bind to Eif4a1 with high affinity 	
+Bc1	Eif4a1	An interaction of the 3 Bc1 domain with Eif4a1 and PABP be responsible for Bc1 mediate repression of translation initiation 	
+Bc1	PABP	An interaction of the 3 Bc1 domain with Eif4a1 and PABP be responsible for Bc1 mediate repression of translation initiation 	
+Bc1	Fmr1	Immunoprecipitation in vivo and electrophoretic mobility shift assay in vitro experiment indicate that Fmr1 bind directly to Bc1 	
+Bc1	Eif4a1	Eif4a1 and PABP interact directly with Bc1 RNA 	
+Bc1	PABP	Eif4a1 and PABP interact directly with Bc1 RNA 	
+Bc1	RIP2	In vivo experiment indicate that Bc1 bind to a site in the C-terminal domain of RIP2 	
+Bc1	PABP	PABP bind to Bc1 and BC200 RNAsin vitro 	
+Bc1	Pura	Experiments demonstrate that the single-stranded DNA- and RNA-binding protein Pura and it isoform Purb link Bc1 RNA to microtubule MTs 	
+Bc1	Purb	Experiments demonstrate that the single-stranded DNA- and RNA-binding protein Pura and it isoform Purb link Bc1 RNA to microtubule MTs 	
+Bc1	Pura	Bc1 RNA associate with Pura 	
+Bc1	Eif4ebp1	Eif4ebp1 protein may bind to a newly synthesize Bc1 RNA 	
+BCAR4	PPP1R10	BCAR4 directly bind to SNIP2 and PPP1R10 via two distinct region 	
+BCAR4	SNIP1	BCAR4 directly bind to SNIP1 and PPP1R10 via two distinct region 	
+BC200	Eif4a1	Interaction of human BC200 RNA with Eif4a1 	
+BC200	PABP	In vitro bind study of BC200 RNA and G22 RNA with PABP 	
+BC200	PABP	PABP bind to Bc1 and BC200 RNAsin vitro 	
+BC200	SSB	Identification of human autoantigen SSB a Bc1 BC200 RNA-binding protein 	
+BC200	SRP9	SRP9 14 heterodimer which represent a well know protein component of the signal recognition particle be associate with BC200 RNA in vitro and importantly also in vivo 	
+BDNF-AS	EZH2	We observe that increase concentration of EZH2 prevent the migration of biotinylated BDNF-AS through an agarose gel an effect that be reverse with an excess of unbiotinylated BDNF-AS These finding indicate that there be a direct physical interaction between BDNF-AS and EZH2 	
+linc-UBC1	EZH2	linc-UBC1 interact with both EZH2 and SUZ12 of PRC2 	
+linc-UBC1	SUZ12	linc-UBC1 interact with both EZH2 and SUZ12 of PRC2 	
+Bvht	SUZ12	We also show that Bvht interact with SUZ12 a component of Polycomb Repressive Complex 2 PRC2 during cardiomyocyte differentiation suggest that Bvht mediate epigenetic regulation of cardiac commitment Bvht directly interact with SUZ12 during CM differentiation 	
+LncLSTR	Tardbp	LncLSTR Interacts with Tardbp to Regulate Cyp8b1 Expression Tardbp bind to the Cyp8b1 promoter be clearly enhance when lncLSTR be deplete 	
+LncLSTR	Cyp8b1	LncLSTR Interacts with Tardbp to Regulate Cyp8b1 Expression Depletion of lncLSTR lead to increase binding of Tardbp reduce Cyp8b1 gene expression 	
+CACNA2	SUZ12	CACNA2 be significantly enrich in the SUZ12 IP over isotype IgG IP control 	
+CCAT1	Bmi1	the oncogenic activity of CCAT1 be partly associate with the regulation of miRNA-218-5p and then Bmi1 	
+CDKN2B-AS1	EZH2	CDKN2B-AS1 could directly bind with PRC2 EZH2 SUZ12 and EED in HCC cell 	
+CDKN2B-AS1	SUZ12	CDKN2B-AS1 could directly bind with PRC2 EZH2 SUZ12 and EED in HCC cell 	
+CDKN2B-AS1	SUZ12	RNA immunoprecipitation demonstrate that CDKN2B-AS1 bind to SUZ12 in vivo 	
+CDKN2B-AS1	EZH2	CDKN2B-AS1 lncRNA recruit both PRC2 and PRC1 subunit EZH2 and CBX7 respectively to achieve INK4b ARF INK4a silence 	
+CDKN2B-AS1	CBX7	CDKN2B-AS1 interacts with CBX7 of the PRC1 complex at the INK4b ARF INK4a locus 	
+CDKN2B-AS1	CBX7	CDKN2B-AS1 bind to PRC1 and 2 protein and recruit CBX7 and SUZ12 to promoter of target gene 	
+CDKN2B-AS1	SUZ12	CDKN2B-AS1 bind to PRC1 and 2 protein and recruit CBX7 and SUZ12 to promoter of target gene 	
+CDR1as	AGO2	CDR1as contain more than 70 selectively conserve miRNA target site and it be highly and widely associate with AGO2 protein in a LILRB1 dependent manner 	
+COLDAIR	CLF	Both E z homologs CLF and SWN bound to COLDAIR in vitro through the CXC domain 	
+COLDAIR	SWN	Both E z homologs CLF and SWN bound to COLDAIR in vitro through the CXC domain 	
+CRG	RpII215	CRG could recruit RpII215 to the CASK promoter region thereby increase CASK expression 	
+CRNDE	insulin	CRNDE represent the first long non-coding RNA to be regulate by insulin IGFs 	
+CRNDE	miR-186	CRNDE bind to miR-186 and negatively regulate it expression 	
+CsrB	CsrA	In vitro interaction of CsrA with CsrB and CsrC RNAs 	
+CsrB	CsrA	CsrB RNA be a second component of the Csr system which bind to CsrA with 1 18 stoichiometry and antagonize it effect on gene expression by sequester this protein 	
+CsrC	CsrA	In vitro interaction of CsrA with CsrB and CsrC RNAs 	
+CTBP1-AS	Sfpq	the interaction between Sfpq and CTBP1-AS by RIP 	
+CTBP1-AS	Sin3A	CTBP1-AS bind to HDAC Sin3A complex and orchestrate the HDAC mediate repression by chromation modification at the CTBP1 promoter in the AR-dependent cell system 	
+CYP4A22-AS1	MED12	while such mutation in MED12 do not affect it association with other Mediator subunit they significantly diminish it association with FAL1 and CYP4A22-AS1 a measure by UV-RIP 	
+Dali	DNMT1	Human Dali be also find use UV-RIP to interact with human DNMT1 	
+Dali	DNMT1	both human and mouse Dali associate with DNMT1 	
+Dali	BRG1	Direct interaction between the endogenous Dali transcript and four of these candidate binding protein BRG1 SIN3A 	
+ANCR	EZH2	ANCR be associate with enhancer of zeste homolog 2 EZH2 and that this association result in the inhibition of both Runx2 expression and subsequent osteoblast differentiation 	
+AS1DHRS4	Ehmt2	AS1DHRS4 not only mediate deacetylation of histone H3f3a and demethylation of H3K4 in ci for the DHRS4 gene but also interact physically in trans with the epigenetic modifier H3K9- and H3K27-specific histone methyltransferases Ehmt2 and EZH2 target the promoter of the downstream DHRS4L2 and DHRS4L1 gene to induce local repressive H3K9me2 and H3K27me3 histone modification 	
+AS1DHRS4	EZH2	AS1DHRS4 not only mediate deacetylation of histone H3f3a and demethylation of H3K4 in ci for the DHRS4 gene but also interact physically in trans with the epigenetic modifier H3K9- and H3K27-specific histone methyltransferases Ehmt2 and EZH2 target the promoter of the downstream DHRS4L2 and DHRS4L1 gene to induce local repressive H3K9me2 and H3K27me3 histone modification 	
+Evf2	BRG1	While BRG1 directly interact with DLX1 and Evf2 through distinct binding site Evf2 directly inhibit BRG1 ATPase and chromatin remode ling activity 	
+EGOT	PRG2	EGOT RNA silence decrease RNASE2 and PRG2 transcript level 	
+EGOT	RNASE2	EGOT RNA silence decrease RNASE2 and PRG2 transcript level 	
+ELFN1-AS1	HNRNPK	ELFN1-AS1 be enrich by RIP use HNRNPK antibody 	
+EWSAT1	HNRNPK	heterogeneous nuclear ribonucleoprotein HNRNPK a an RNA-binding protein that interact with EWSAT1 	
+FAL1	MED12	while such mutation in MED12 do not affect it association with other Mediator subunit they significantly diminish it association with FAL1 and ncRNA-a3 a measure by UV-RIP 	
+FAL1	Bmi1	We reveal that FAL1 can interact with the PRC1 core protein Bmi1 	
+SAF	RBM5	SAF binding to the RBM5 inhibits RBM5 mediate exon 6 skip 	
+Fendrr	EZH2	The tissue-specific lncRNA Fendrr bind to both the PRC2 SUZ12 EZH2 and H3K27me3 and TrxG MLL complex 	
+Fendrr	SUZ12	The tissue-specific lncRNA Fendrr bind to both the PRC2 SUZ12 EZH2 and H3K27me3 and TrxG MLL complex 	
+Firre	HNRNPU	Firre directly and specifically bind to HNRNPU 	
+G22	PABP	BC200 RNA and G22 RNA bind common protein partner SRP9 SRP14 and PABP 	
+G22	SRP14	BC200 RNA and G22 RNA bind common protein partner SRP9 SRP14 and PABP 	
+G22	SRP9	BC200 RNA and G22 RNA bind common protein partner SRP9 SRP14 and PABP 	
+G22	PABP	In vitro bind study of BC200 RNA and G22 RNA with PABP 	
+GAS5	ANXA2	RNA pull-down experiment reveal a direct bind of lncRNA GAS5 to a Ca2+-dependent RNA-binding protein ANXA2 	
+GAS5	TNFSF10	GAS5 derive small RNA specifically upregulates TNFSF10 expression in breast cancer cell 	
+GAS5	AGO2	GAS5 RNA interact with AGO2 	
+GAS5	CDK6	GAS5 Decreases Bladder Cancer Cell Proliferation by Regulating CDK6 	
+GAS5	CDK6	We further demonstrate that GAS5 negatively regulate CDK6 cyclin dependent kinase 6 expression in vitro and in vivo More importantly knockdown of CDK6 partially abrogate gas5 siRNA induce cell proliferation 	
+GHET1	IGF2BP1	GHET1 physically associate with insulin-like growth factor 2 mRNA bind protein 1 IGF2BP1 and enhance the physical interaction between c-Myc mRNA and IGF2BP1 consequently increase the stability of c-Myc mRNA and expression 	
+MIRT2	GBP	GBP which encode the lectin galactoside-binding soluble 3 be significantly correlate with MIRT1 and MIRT2 	
+H19	RB1	H19 derive miR-675 through downregulation of it target RB1 regulate the colorectal cancer development 	
+H19	HGF	Using a block antibody HGF be identify a the fibroblast-derived growth factor capable of induce H19 expression and cell morphogenesis 	
+H19	IGF2BP1	human H19 RNA contain four attachment site for the oncofetal IGF-II mRNA-binding protein IGF2BP1 with apparent Kd value in the 0 4-1 3 nM range 	
+H19	POMC	In cultured fetal adrenal cell POMC increase H19 RNA accumulation 	
+H19	Khsrp	Khsrp Directly Interacts with the H19 lncRNA 	
+H19	HNRNPU	the protein HNRNPU interact with H19 H19 be bind to HNRNPU and this interaction be locate within the 5 882 nt region of H19 	
+H19	Elavl1	RNA immunoprecipitation experiment indeed confirm Elavl1 bind to H19 	
+H19	EZH2	H19 be associate with enhancer of zeste homolog 2 EZH2 and that this association result in Wnt 	
+H19	HNRNPU	By RNA pull down assay and western blot analysis we verify that the full length of H19 can bind to the RNA-binding protein HNRNPU HNRNPU have be report to be a member of protein complex HNRNPU PCAF RNA PolII RIP also display the association between H19 and hnRNPU PCAF RNA PolII 	
+H19	AGO2	According to the result from RIP experiment H19 be preferentially enrich in AGO2 contain bead compare to the bead harbor control immunoglobulin G IgG antibody 	
+Haunt	Purb	Haunt RNA repress Hoxa1 by recruit the protein Purb a a transcriptional cofactor 	
+lncRNA-HEIH	EZH2	lncRNA-HEIH be associate with enhancer of zeste homolog 2 EZH2 	
+Hes1-as	EZH2	Hes1-as RNA directly and specifically interacts with PRC2 and EZH2 be the RNA-binding subunit 	
+5'aHIF1alpha	TET3	TET3 can mediate the activation of HSCs via modulate the expression of the long non-coding RNA 5 aHIF1alpha 	
+mrhl	Ddx5	Ddx5 interact with mrhl RNA in the chromatin and be necessary for mrhl RNA occupancy at GRPAM locus 	
+mrhl	Hnrnpa1	We also identify interact protein of mrhl RNA associate chromatin fraction Pc4 Hmgb2 Rbm3 Hnrnpa1 HNRNPA2B1 Hnrpab which include Pc4 a chromatin organizer protein and Hnrpab and HNRNPA2B1 which have be show to be associate with lincRNA-Cox2 function in gene regulation 	
+mrhl	Hnrpab	We also identify interact protein of mrhl RNA associate chromatin fraction Pc4 Hmgb2 Rbm3 Hnrnpa1 HNRNPA2B1 Hnrpab which include Pc4 a chromatin organizer protein and Hnrpab and HNRNPA2B1 which have be show to be associate with lincRNA-Cox2 function in gene regulation 	
+mrhl	Rbm3	We also identify interact protein of mrhl RNA associate chromatin fraction Pc4 Hmgb2 Rbm3 Hnrnpa1 HNRNPA2B1 Hnrpab which include Pc4 a chromatin organizer protein and Hnrpab and HNRNPA2B1 which have be show to be associate with lincRNA-Cox2 function in gene regulation 	
+mrhl	HNRNPA2B1	We also identify interact protein of mrhl RNA associate chromatin fraction which include Pc4 a chromatin organizer protein and Hnrpab and HNRNPA2B1 which have be show to be associate with lincRNA-Cox2 function in gene regulation 	
+mrhl	Ddx5	Ddx5 be one of the interacting protein of mrhl RNA 	
+HAS1	DNMT1	the binding of HAS1 to DNMT1 may explain it regulation of E-cadherin 	
+HOTAIR	EZH2	phospho-mimic T345D enhances EZH2 affinity for HOTAIR ncRNA binding 	
+HOTAIR	VIM	HOTAIR exert it effect on migration and invasion of HeLa cell at least in part through the regulation of VIM expression 	
+HOTAIR	PCBP1	this still prove direct interaction between HOTAIR lncRNA and PCBP1 	
+HOTAIR	EZH2	knockdown of lncRNA HOTAIR lead to the weakening of the recruitment and bind ability of EZH2 and H3K27me3 locus with lncRNA HOTAIR 	
+HOTAIR	RBM38	HOTAIR be show to negatively regulate RBM38 HOTAIR suppression increase the mRNA and protein expression level of RNA bind motif protein 38 RBM38 	
+HOTAIR	EZH2	EZH2 EED heterodimer represent the minimal component of PRC2 SUZ12 EZH2 and H3K27me3 necessary for HOTAIR bind 	
+HOTAIR	EED	EZH2 EED heterodimer represent the minimal component of PRC2 SUZ12 EZH2 and H3K27me3 necessary for HOTAIR bind 	
+HOTAIR	SUZ12	cDNA array data reveal a close correlation between expression of HOTAIR and member of the PRC2 complex SUZ12 EZH2 and H3K27me3 	
+HOTAIR	EZH2	human HOTAIR contain several bind site for the SET domain contain PRC2 component EZH2 	
+HOTAIR	EZH2	EZH2 interact with HOTAIR and Xist 	
+HOTAIR	EZH2	A 5 domain of HOTAIR bind polycomb repressive complex 2 PRC2 EZH2 SUZ12 and EED whereas a 3 domain of HOTAIR bind the EZH2 CoREST REST complex 	
+HOTAIR	SUZ12	A 5 domain of HOTAIR bind polycomb repressive complex 2 PRC2 EZH2 SUZ12 and EED whereas a 3 domain of HOTAIR bind the EZH2 CoREST REST complex 	
+HOTAIR	EZH2	lincRNA HOTAIR bind the polycomb repressive complex PRC2 EZH2 SUZ12 and EED 	
+HOTAIR	SUZ12	lincRNA HOTAIR bind the polycomb repressive complex PRC2 EZH2 SUZ12 and EED 	
+HOTAIR	SUZ12	Pulldown assay show a specific interaction between HOTAIR and PRC2 key component SUZ12 and EZH2 	
+HOTAIR	EZH2	HOTAIR associate with EZH2 	
+Hotair	EZH2	Immunoprecipitation IP of PRC2 subunit EZH2 or SUZ12 and separately the histone demethylase EZH2 from posterior E11 5 embryo specifically retrieve Hotair but not MALAT1 nor U1 RNA This result suggest that Hotair bind both H3K27 methylase and H3K4 demethylase complex 	
+Hotair	SUZ12	Immunoprecipitation IP of PRC2 subunit EZH2 or SUZ12 and separately the histone demethylase EZH2 from posterior E11 5 embryo specifically retrieve Hotair but not MALAT1 nor U1 RNA This result suggest that Hotair bind both H3K27 methylase and H3K4 demethylase complex 	
+HOTAIR	EZH2	In a subset of 32 CRC specimen gene set enrichment analysis use cDNA array data reveal a close correlation between expression of HOTAIR and member of the PRC2 complex SUZ12 EZH2 and H3K27me3 	
+HOTAIR	EZH2	Our optimized assay have the potential to be use a a high-throughput screening HTS platform to find modulators of HOTAIR EZH2 binding as well a to study the dynamic of the interaction between this important lncRNA and it protein partner 	
+HOTAIR	EZH2	Furthermore we verify that HOTAIR be locate both in the nucleus and cytoplasm of gastric cancer cell and RNA immunoprecipitation RIP assay show that HOTAIR could bind to PRC2 EZH2 SUZ12 and EED1 	
+HOTAIR	SUZ12	Furthermore we verify that HOTAIR be locate both in the nucleus and cytoplasm of gastric cancer cell and RNA immunoprecipitation RIP assay show that HOTAIR could bind to PRC2 EZH2 SUZ12 and EED1 	
+HOTAIR	E7	Functional inactivation of HOTAIR by direct interaction with E7 could also be predict by in silico analysis and confirm by RNA-Immunoprecipitation 	
+HOTTIP	WDR5	WDR5 bind to HOTTIP 	
+HOTTIP	MLL1	HOTTIP directly bind the adaptor protein WDR5 and target WDR5 MLL1 complex across HOXA 	
+HOTTIP	WDR5	HOTTIP directly bind the adaptor protein WDR5 and target WDR5 MLL1 complex across HOXA 	
+HOTTIP	WDR5	WDR5 bind to HOTTIP 	
+HOTTIP	WDR5	HOTTIP directly bind the adaptor protein WDR5 and target WDR5 MLL1 complex across HOXA 	
+HOTTIP	MLL1	HOTTIP directly bind the adaptor protein WDR5 and target WDR5 MLL1 complex across HOXA 	
+Hoxb5os	MLL1	Hoxb5os associate with trimethylated H3K4 histone and MLL1 suggest a role in epigenetic regulation of homeotic locus during ES cell differentiation 	
+HSR1	Eef1a2	the amount of HSR1 Eef1a2 complex in vivo increase upon heat shock 	
+HSR1	HSF1	Heat-shock RNA 1 HSR1 bind heat-shock transcription factor 1 HSF1 facilitate it ability to activate gene encode heat-shock protein 	
+Hsromega	HRB87F	The RNA binding domain II RBD-II of HRB87F be essential for it tight binding to the Hsromega or hsr-w locus 	
+HULC	IGFBP1	IGFBP1 bind HULC and recruit it to the CCR4-NOT1 complex 	
+HULC	TPPP2	RIP assay show that HULC down-regulated the level of TPPP2 directly 	
+ICR1	FLO8	the ncRNA ICR1 modulates alternative FLO11 expression state by control FLO8 recruitment to the FLO11 promoter 	
+NeST	WDR5	NeST RNA be find to bind WDR5 a component of the histone H3f3a lysine 4 methyltransferase complex and to alter histone 3 methylation at the IFN- 	
+IPW	Ehmt2	Our result indicate that IPW interact with Ehmt2 thus provide strong mechanistic evidence for the function of IPW in establish the H3K9me3 modification at the IG-DMR of the DLK1-DIO3 locus 	
+IRT1	Set2	lncRNA IRT1 locate in the IME1 promoter IRT1 transcription recruit the Set2 histone methyltransferase and the Set3 histone deacetylase complex to establish repressive chromatin at the IME1 promoter IME1 repression by IRT1 transcription require Set2 and Set3 to establish a repressive chromatin state in the IME1 promoter to prevent transcription factor recruitment 	
+IRT1	Set3	lncRNA IRT1 locate in the IME1 promoter IRT1 transcription recruit the Set2 histone methyltransferase and the Set3 histone deacetylase complex to establish repressive chromatin at the IME1 promoter IME1 repression by IRT1 transcription require Set2 and Set3 to establish a repressive chromatin state in the IME1 promoter to prevent transcription factor recruitment 	
+JADRR	BRCA1	JADRR physically interact with BRCA1 	
+Kcnq1ot1	DNMT1	Kcnq1ot1 mediate transcriptional gene silencing by interact with DNMT1 Kcnq1ot1 recruit DNMT1 to somatic DMRs by interact with DNMT1 	
+Kcnq1ot1	EZH2	ChIP-on-chip data profiling of H3K27me3 and EZH2 across the Kcnq1 domain show that H3K27me3 and EZH2 occupancy remain unchanged over the entire domain upon conditional deletion of Kcnq1ot1 RNA 	
+LINC00441	CALR	LINC00441 positively regulate the expression of calreticulin CALR that in response to certain therapeutic intervention can translocate from the endoplasmic reticulum to the cell surface hence activate anticancer immune response 	
+LINC00582	TSNAX-DISC1	LINC00582 regulate TSNAX-DISC1 formation program that tightly regulate EC development 	
+LINC01108	SUZ12	LINC01108 and lncRNA_ES2 be physically associate with SUZ12 and SOX2 but not OCT4 	
+POU3F3	EZH2	POU3F3 physically associate with EZH2 	
+UFC1	CTNNB1	The UFC1 interact directly with the messenger RNA mRNA stabilize protein HuR encode by ELAVL1 to increase level of beta-catenin mRNA encode by CTNNB1 and protein 	
+UFC1	ELAVL1	The UFC1 interact directly with the messenger RNA mRNA stabilize protein HuR encode by ELAVL1 to increase level of beta-catenin mRNA encode by CTNNB1 and protein 	
+ROR	SCPEP1	ROR be recruit to Ago2 related RNA-induced silencing complex SCPEP1 	
+ROR	MS2	ROR OCT4 SOX2 or NANOG full-length transcript combine with MS2 element 	
+ROR	PTBP1	ROR directly interact with PTBP1 	
+Llme23	Sfpq	Binding of Llme23 to Sfpq in vitro and in vivo 	
+bc060912	PARP1	the increased expression of bc060912 in tumor be in accordance with the role in prevent cell apoptosis through interaction with PARP1 and NPM1 	
+bc060912	NPM1	the increased expression of bc060912 in tumor be in accordance with the role in prevent cell apoptosis through interaction with PARP1 and NPM1 	
+Lncbate1	HNRNPU	These finding demonstrate a specific and direct interaction between Lncbate1 and HNRNPU suggest that they form a functional ribonucleoprotein complex to regulate brown adipogenesis 	
+LncMyoD	Immp2l	LncMyoD directly bind to IGF2 mRNA bind protein 2 Immp2l and negatively regulate Immp2l mediate translation of proliferation gene such a N-Ras and c-Myc 	
+Pint	SUZ12	We reason that these gene might be co-regulated by PRC2 EZH2 SUZ12 and EED1 and Pint We then determine the association of PRC2 with these gene by SUZ12 ChIP-qPCR in p53-restored p53 LSL MEFs with or without inhibition of Pint The ChIP result confirm that SUZ12 occupy all the analyze gene in the control condition 	
+lncRNA_ES2	SUZ12	lncRNA_ES1 and lncRNA_ES2 be physically associate with SUZ12 and SOX2 but not OCT4 	
+lncRNA-CD244	EZH2	lncRNA-CD244 Associates Physically with EZH2 and Mediates Recruitment of EZH2 to ifng and tnfa Loci for Repressive Chromatin States 	
+Dreh	vimentin	Dreh could combine with the IF protein vimentin further repress the expression of vimentin and change the normal cytoskeleton structure 	
+MVIH	PGK1	lncRNA MVIH could weaken the function of PGK1 in angiogenesis inhibition by reduce the secretion of PGK1 	
+LUADT1	SUZ12	RNA immunoprecipitation and chromatin immunoprecipitation assay confirm that LUADT1 bind to SUZ12 a core component of polycomb repressive complex 2 and mediate the trimethylation of H3K27 at the promoter region of p27 	
+MAFTRR	EZH2	MAFTRR might act a a scaffold to recruit both EZH2 and EZH2 and modulate the enzymatic activity of EZH2 on the MAF promoter and thus regulate it transcription 	
+MALAT1	HNRNPC	RNA pull down show that HNRNPC preferably bind methylated RNA MALAT1 	
+MALAT1	EZH2	Our RIP result also show that MALAT1 interact with EZH2 in renal cancer cell line 	
+MALAT1	Sfpq	with downregulation of MALAT1 RNA level the MALAT1 binding to Sfpq decrease 	
+MALAT1	HNRNPD	we confirm the interaction of HNRNPD with NEAT1 and MALAT1 by RIP analysis and by in vitro binding assay 	
+MALAT1	SRSF1	SRSF1 inhibit YAP1 transcriptional activity and prevents YAP1 recruitment on the MALAT1 promoter 	
+MALAT1	YAP1	YAP1 interacts with TCF4 -catenin to regulate MALAT1 transcription 	
+MALAT1	HNRNPC	MALAT1 interact with HNRNPC in cell cycle regulation 	
+MALAT1	OASL	The pre-mRNA level of OASL and IFI44 be reduce while that of SPINK4 be unaltered between control cell and MALAT1 silence cell suggest that MALAT1 can influence gene expression at distinct step 	
+MALAT1	IFI44	The pre-mRNA level of OASL and IFI44 be reduce while that of SPINK4 be unaltered between control cell and MALAT1 silence cell suggest that MALAT1 can influence gene expression at distinct step 	
+MALAT1	RNPS1	RNAi-mediated repression of the nuclear speckle protein RNPS1 SRRM1 or AQR which be well-known mRNA processing factor result in the diffusion of MALAT1 to the nucleoplasm 	
+MALAT1	PKD2	This movement be the consequence of binding of methylated and unmethylated PKD2 to the ncRNAs TUG1 and MALAT1 NEAT2 locate in PcGs and ICGs respectively 	
+MALAT1	SRSF1	RNA-IP follow by RT-PCR in extract from HeLa cell transiently express T7-tagged SNCG proteins SRSF1 SRSF2 SC35 SRSF3 SRp20 SRSF5 SRSF5 reveal interaction between MALAT1 and SRSF1 SRSF2 and SRSF3 	
+MALAT1	SRSF2	RNA-IP follow by RT-PCR in extract from HeLa cell transiently express T7-tagged SNCG proteins SRSF1 SRSF2 SC35 SRSF3 SRp20 SRSF5 SRSF5 reveal interaction between MALAT1 and SRSF1 SRSF2 and SRSF3 	
+MALAT1	SRSF3	RNA-IP follow by RT-PCR in extract from HeLa cell transiently express T7-tagged SNCG proteins SRSF1 SRSF2 SC35 SRSF3 SRp20 SRSF5 SRSF5 reveal interaction between MALAT1 and SRSF1 SRSF2 and SRSF3 	
+MALAT1	SRSF5	SRSF5 which have a domain organization similar to that of SRSF1 consist of two N-terminal RNA recognition motif RRMs and a C-terminal RS domain show weak association with MALAT1 compare to other SNCG protein test Figure 	
+MALAT1	SNCG	MALAT1 interact with SNCG protein and influence the distribution of these and other splice factor in nuclear speckle domain 	
+MALAT1	PRPF6	RNA-IP in nuclear extract from cell that be transfected with T7-PRP6 cDNA follow by RT-PCR use MALAT1 specific primer confirm an interaction between MALAT1 and PRPF6 	
+MALAT1	PSPC1	PSPC1 an RNA-binding protein and a component of paraspeckles also display a weak interaction with MALAT1 but at the same time show a strong association with the paraspeckle localize NEAT1 	
+MALAT1	SRSF1	the ncRNAs represent in the SRSF1 CLIP-seq data be 23 snoRNAs three microRNA precursor and the 5 8S rRNA XIST and MALAT1 RNAs 	
+MALAT1	YAP1	YAP1 interacts with TCF4 -catenin to regulate MALAT1 transcription 	
+MALAT1	SRSF1	SRSF1 inhibit YAP1 transcriptional activity and prevents YAP1 recruitment on the MALAT1 promoter 	
+MALAT1	HNRNPC	MALAT1 interact with HNRNPC in cell cycle regulation 	
+MALAT1	SUZ12	MALAT1 repress E-cadherin E-cad expression by associate with SUZ12 	
+MALAT1	AGO2	By perform RNA-binding protein immunoprecipitation RIP assay and RNA pull-down assay we confirm that miR-145 and MALAT1 be in the same AGO2 complex and there be a reciprocal repression between them 	
+MEG3	EZH2	ARID2 and EZH2 bind to lncRNAs in vivo include MEG3 	
+MEG3	RAC1	RAC1 be negatively regulate by MEG3 at the posttranscriptional level via aspecific target site within the 3UTR by dual luciferase reporter assay 	
+MEG3	BMP4	Upregulation of lncRNA MEG3 Promotes Osteogenic Differentiation of Mesenchymal Stem Cells From Multiple Myeloma Patients By Targeting BMP4 Transcription 	
+MEG3	ILF3	Mass spectrometry and gene ontology GO analysis show that MEG3 bind protein possess nucleotide bind property and take part in transport translation and other biological process In addition interleukin enhancer bind factor 3 ILF3 and poly A bind protein cytoplasmic 3 PABPC3 be validate for their interaction with MEG3 	
+MEG3	PABPC3	Mass spectrometry and gene ontology GO analysis show that MEG3 bind protein possess nucleotide bind property and take part in transport translation and other biological process In addition interleukin enhancer bind factor 3 ILF3 and poly A bind protein cytoplasmic 3 PABPC3 be validate for their interaction with MEG3 	
+MHRT	BRG1	MHRT can directly interact with the helicase domain of BRG1 to regulate it occupancy and activity suggest that MHRT may function a a decoy for the chromatin remodeler to prevent it occupancy on target gene promoter 	
+MIAT	SRSF1	MIAT bind directly to the splice factor QKI and SRSF1 	
+MIAT	QKI	MIAT bind directly to the splice factor QKI and SRSF1 	
+MIAT	SF1	MIAT RNA bind directly to SF1 in vivo 	
+MIAT	Bmi1	RNA immunoprecipitation use an antibody specific to Bmi1 reveal an interaction with MIAT lncRNA 	
+MIAT	QKI	MIAT bind directly to the splice factor QKI and SRSF1 	
+MIAT	SRSF1	MIAT bind directly to the splice factor QKI and SRSF1 	
+MIAT	SF1	MIAT RNA bind directly to SF1 in vivo 	
+MIR31HG	EZH2	MIR31HG be able to interact directly with PRC2 EZH2 SUZ12 and EED1 	
+MIR31HG	SUZ12	MIR31HG be able to interact directly with PRC2 EZH2 SUZ12 and EED1 	
+MRLN	ATP2A1	MRLN interact directly with ATP2A1 and impedes uptake into the SNCG 	
+MYCLo-1	ELAVL1	MYCLo-1 be abundant in RIP sample use ELAVL1 antibody 	
+MYCNOS	G3BP1	IP of the MYCNOS associate protein MAP4 CIP29 G3BP1 and FKBP5 be immunoprecipitated and probe by qRTPCR for MYCNOS with MYCNOS specific primer set 3 and 10 	
+MYCNOS	MAP4	IP of the MYCNOS associate protein MAP4 CIP29 G3BP1 and FKBP5 be immunoprecipitated and probe by qRTPCR for MYCNOS with MYCNOS specific primer set 3 and 10 	
+MYCNOS	CIP29	IP of the MYCNOS associate protein MAP4 CIP29 G3BP1 and FKBP5 be immunoprecipitated and probe by qRTPCR for MYCNOS with MYCNOS specific primer set 3 and 10 	
+MYCNOS	FKBP5	IP of the MYCNOS associate protein MAP4 CIP29 G3BP1 and FKBP5 be immunoprecipitated and probe by qRTPCR for MYCNOS with MYCNOS specific primer set 3 and 10 	
+Nctc1	Polr2a	Polr2a association with Nctc1 inversely correlate with H19 transcriptional activation 	
+NEAT1	SMARCA2	a direct interaction between NEAT1 and these SWI SNF BRG1 SMARCA2 subunit 	
+NEAT1	BRG1	a direct interaction between NEAT1 and these SWI SNF BRG1 SMARCA2 subunit 	
+NEAT1	SRSF5	NEAT1 Associated with SRSF5 	
+NEAT1	HNRNPD	we confirm the interaction of HNRNPD with NEAT1 and MALAT1 by RIP analysis and by in vitro binding assay 	
+NEAT1	Sfpq	NEAT1 bound to Sfpq in vivo 	
+NEAT1	Sfpq	Sfpq bound to NEAT1 after MG132 treatment 	
+NEAT1	FUS	Both Tardbp and FUS bind to NEAT1 _2 lncRNA 	
+NEAT1	Tardbp	Both Tardbp and FUS bind to NEAT1 lncRNA 	
+NEAT1	NONO	mammalian DBHS NONO Sfpq PSPC1 proteins associate with the architectural long noncoding RNA NEAT1 to form paraspeckles subnuclear body that alter gene expression via the nuclear retention of RNA 	
+NEAT1	Sfpq	mammalian DBHS NONO Sfpq PSPC1 proteins associate with the architectural long noncoding RNA NEAT1 to form paraspeckles subnuclear body that alter gene expression via the nuclear retention of RNA 	
+NEAT1	PSPC1	mammalian DBHS NONO Sfpq PSPC1 proteins associate with the architectural long noncoding RNA NEAT1 to form paraspeckles subnuclear body that alter gene expression via the nuclear retention of RNA 	
+NEAT1	FUS	one of category 1B protein FUS bind to both NEAT1 _1 and NEAT1 _2 	
+NEAT1	NONO	In interphase cell NONO localize to the nucleoplasm and concentrate with protein partner in the paraspeckles via an interaction with the non-coding RNA NEAT1 	
+NEAT1	NONO	NEAT1 accumulation colocalizes very well with both NONO and PSPC1 	
+NEAT1	PSPC1	NEAT1 accumulation colocalizes very well with both NONO and PSPC1 	
+NEAT1	NONO	NEAT1 RNA bind with paraspeckle protein PSPC1 PSF NONO 	
+NEAT1	PSPC1	NEAT1 RNA bind with paraspeckle protein PSPC1 PSF NONO 	
+NEAT1	Sfpq	NEAT1 sequesters Sfpq in paraspeckles in luteal cell 	
+lncRNA-LET	ILF3	The lncRNA-LET be bind to ILF3 which increase ILF3 degradation by the proteasome 	
+NRON	KPNB1	the interaction between NRON and the four protein KPNB1 PPP2R1A PSMD11 IQGAP1 that show NFAT modulatory effect 	
+NRON	PPP2R1A	the interaction between NRON and the four protein KPNB1 PPP2R1A PSMD11 IQGAP1 that show NFAT modulatory effect 	
+NRON	PSMD11	the interaction between NRON and the four protein KPNB1 PPP2R1A PSMD11 IQGAP1 that show NFAT modulatory effect 	
+NRON	IQGAP1	the interaction between NRON and the four protein KPNB1 PPP2R1A PSMD11 IQGAP1 that show NFAT modulatory effect 	
+NRON	LRRK2	Mechanistic study show that LRRK2 be a potent negative regulator of the transcription factor NFAT and be a component of a complex that include the large noncoding RNA NRON 	
+NRON	Calm1	Our data show that the role of NRON be considerably more complex It form part of a large cytoplasmic RNA-Protein scaffold for NFAT which contain IQGAP1 protein Calm1 and three distinct NFAT kinase CK1 Gsk3b and Dyrk1a 	
+NRON	Dyrk1a	Our data show that the role of NRON be considerably more complex It form part of a large cytoplasmic RNA-Protein scaffold for NFAT which contain IQGAP1 protein Calm1 and three distinct NFAT kinase CK1 Gsk3b and Dyrk1a 	
+NRON	IQGAP1	Our data show that the role of NRON be considerably more complex It form part of a large cytoplasmic RNA-Protein scaffold for NFAT which contain IQGAP1 protein Calm1 and three distinct NFAT kinase CK1 Gsk3b and Dyrk1a 	
+NRON	Gsk3b	Our data show that the role of NRON be considerably more complex It form part of a large cytoplasmic RNA-Protein scaffold for NFAT which contain IQGAP1 protein Calm1 and three distinct NFAT kinase CK1 Gsk3b and Dyrk1a 	
+NRON	CK1	Our data show that the role of NRON be considerably more complex It form part of a large cytoplasmic RNA-Protein scaffold for NFAT which contain IQGAP1 protein Calm1 and three distinct NFAT kinase CK1 Gsk3b and Dyrk1a 	
+NRON	LRRK2	The regulatory non-coding RNA NRON be also detect in association with LRRK2 by immunoprecipitation follow by RT-PCR use NRON specific primer LRRK2 block the transport of NFAT to the nucleus and that LRRK2 deficiency result in enhanced susceptibility to experimental colitis in mouse 	
+Oct4P4	SUV39H1	Oct4P4 lncRNA abundance be find to be strongly reduce in anti SUV39H1 RNA immunoprecipitates after RNAi-mediated reduction of endogenous Oct4P4 thus confirm the specificity of our experiment 	
+PAN	EZH2	PAN interact with Polycomb repression complex proteins EZH2 and SUZ12 	
+PAN	SUZ12	PAN interact with Polycomb repression complex proteins EZH2 and SUZ12 	
+PAN	KDM6A	KDM6B KDM6A and KDM6B interact with PAN 	
+PAN	KDM6B	KDM6B KDM6A and KDM6B interact with PAN 	
+PAN	PABP	PABP bind to the 9-nt core of PAN MRE-II 	
+PAN	PABP	PAN bind to PABP in the nucleus of lytically infect BCBL1 TReX-RTA cell 	
+PAN	HIST1H1B	PAN interact with several virus- and host cell-encoded factor include histone HIST1H1B and H2A mitochondrial and cellular single-stranded binding protein SSBP1 and interferon Regulation factor 4 IRF4 	
+PAN	IRF4	PAN interact with several virus- and host cell-encoded factor include histone HIST1H1B and H2A mitochondrial and cellular single-stranded binding protein SSBP1 and interferon Regulation factor 4 IRF4 	
+PAN	SSBP1	PAN interact with several virus- and host cell-encoded factor include histone HIST1H1B and H2A mitochondrial and cellular single-stranded binding protein SSBP1 and interferon Regulation factor 4 IRF4 	
+PAN	ORF59	the interaction of PAN with the virally encoded processivity factor ORF59 	
+PANDA	HNRNPU	PANDA bind to HNRNPU and Bmi1 and be critical for their interaction 	
+PARTICLE	Ehmt2	PARTICLE interact with silence complex Ehmt2 and PRC2 	
+PARTICLE	SUZ12	PARTICLE interact directly with PRC2 via the SUZ12 subunit 	
+PCA3	ADAR	we use quantitative RT-PCR qRT-PCR co-RNA FISH and RNA-ChIP We find that endogenous PCA3 and PRUNE2 pre-mRNAs colocalize to nuclear focus associate with ADAR protein which be sensitive to RNase III treatment 	
+PCA1	SUZ12	RNA immunoprecipitation RIP similarly show binding of PCA1 to SUZ12 protein in VCaP cell 	
+PCA1	BRCA2	our data directly support a role for PCA1 in the post-transcriptional regulation of BRCA2 PCA1 overexpression be able to directly repress the activity of the BRCA2 3 	
+Pinc	EZH2	Pinc interact with PRC2 EZH2 SUZ12 and EED1 in HC11 cell 	
+Pinc	SUZ12	Pinc interact with PRC2 EZH2 SUZ12 and EED1 in HC11 cell 	
+Pnky	PTBP1	Pnky localize to the nucleus and interacts with the mRNA splice regulator PTBP1 PTBP1 and Pnky regulate expression of key transcript relate to differentiation 	
+pRNA	PARP1	PARP1 associate with pRNA 	
+PTENP1-AS	DNMT3a	the PTENP1-AS bind and recruit the chromatin remodelers DNMT3a and EZH2 to the PTEN promoter 	
+PTENP1-AS	EZH2	the PTENP1-AS bind and recruit the chromatin remodelers DNMT3a and EZH2 to the PTEN promoter 	
+Ptgs2os2	HNRNPAB	HNRNPAB and HNRNPA2B1 be identify a specific bind partner for Ptgs2os2 in both the nuclear and cytosolic fraction via biotin pull-down assay and Mass Spectrometry later confirm by Western blot analysis 	
+Ptgs2os2	HNRNPA2B1	HNRNPAB and HNRNPA2B1 be identify a specific bind partner for Ptgs2os2 in both the nuclear and cytosolic fraction via biotin pull-down assay and Mass Spectrometry later confirm by Western blot analysis 	
+PVT1	EZH2	PVT1 be associate with enhancer of zeste homolog 2 EZH2 and that this association be require for the repression of p15 and p16 	
+PVT1	NOP2	PVT1 bind to NOP2 nucleolar protein 	
+ANRASSF1	SUZ12	ANRASSF1 mediate recruitment of SUZ12 to the RASSF1A promoter endogenous ANRASSF1 be enrich in the anti EZH2 RNA-IP fraction relative to the input compare with the IgG fraction PRC2 be specifically direct by ANRASSF1 lncRNA to the RASSF1A promoter 	
+ANRASSF1	EZH2	ANRASSF1 mediate recruitment of SUZ12 to the RASSF1A promoter endogenous ANRASSF1 be enrich in the anti EZH2 RNA-IP fraction relative to the input compare with the IgG fraction PRC2 be specifically direct by ANRASSF1 lncRNA to the RASSF1A promoter 	
+RMST	HNRNPA2B1	RMST associate with RNA-binding protein HNRNPA2B1 and transcription factor SOX2 	
+RN7SK	CASP3	a significant increase in CASP3 activity in cell transduce with virus particle contain RN7SK snRNA 	
+RN7SK	LARP7	LARP7 negatively regulate positive transcription elongation factor-b CDK9 by bind to and stabilize RN7SK RNA 	
+RN7SK	CDK9	Together with the HEXIM proteins RN7SK RNA associate with and sequesters a fraction of cellular CDK9 into a catalytically inactive complex 	
+RN7SK	SRRT	SRRT physically associate with histone mRNAs and the non-coding RNA RN7SK 	
+RN7SK	CDK9	We provide evidence for RN7SK RNA complex contain simultaneously HMGA1 and CDK9 	
+RN7SK	CDK9	CDK9 be associate with RN7SK RNA 	
+RN7SK	ATAT1	HIV-1 ATAT1 bind with high specificity and efficiency to an evolutionarily highly conserve stem-bulge-stem motif of the 5 -hairpin of human RN7SK snRNA 	
+RN7SK	CDK9	RN7SK snRNP bind to CDK9 	
+RN7SK	HEXIM1	HEXIM1 target a repeated GAUC motif in the riboregulator of transcription RN7SK and promote base pair rearrangement 	
+RN7SK	ATAT1	ATAT1 remodels RN7SK snRNP by interact directly with RN7SK RNA 	
+RN7SK	HEXIM1	The HEXIM1 binding site be locate in the 24-87 region of RN7SK RNA and that the protein residues outside the basic domain of Hexim1 be involve in specific RNA interaction 	
+RN7SK	LARP7	LARP7 associate with RN7SK RNA 	
+RN7SK	PPP1CA	PP2B and PPP1CA cooperatively disrupt RN7SK snRNP to release CDK9 for transcription in response to Ca2+ signal 	
+RN7SK	LARP7	Immunoprecipitation of LARP7 confirm that it be a stable component of the RN7SK snRNP 	
+RN7SK	LARP7	LARP7 bind and stabilizes nearly all the nuclear RN7SK via 3 -UUU-OH lead to the sequestration and inactivation of CDK9 	
+RN7SK	MEPCE	BCDIN3 be the RN7SK snRNA methylphosphate cap enzyme MEPCE present in an snRNP complex contain both RNA processing and transcription factor include the elongation factor CDK9 	
+RN7SK	HEXIM1	RN7SK RNA bind to a HEXIM1 multimer promote the simultaneous recruitment and hence inactivation of multiple CDK9 unit 	
+RN7SK	HEXIM1	HEXIM1 bind RN7SK snRNA directly and a RN7SK snRNA recognition motif be identify in the central part of HEXIM1 	
+RN7SK	CDK9	CDK9 associate with the RN7SK snRNA 	
+RN7SK	SSB	RN7SK associate with the SSB antigen appear to be cell-type specific 	
+RN7SL1	APOBEC3F	APOBEC3F selectively interact with RN7SL1 RNA 	
+RN7SL1	SRP19	The binding of SRP54 to the S domain of RN7SL1 RNA be highly dependent on SRP19 	
+RN7SL1	SRP54	The binding of SRP54 to the S domain of RN7SL1 RNA be highly dependent on SRP19 	
+RN7SL1	SRP14	Human SRP14 and SRP9 polypeptides together form the RNA binding activity describe a Alu RBP then the alu RBP bind to the Alu-homologous region of RN7SL1 RNA 	
+RN7SL1	SRP9	Human SRP14 and SRP9 polypeptides together form the RNA binding activity describe a Alu RBP then the alu RBP bind to the Alu-homologous region of RN7SL1 RNA 	
+RN7SL1	SRP14	RN7SL1 RNAs be bind to SRP9 and SRP14 	
+RN7SL1	SRP9	RN7SL1 RNAs be bind to SRP9 and SRP14 	
+RN7SL1	SRP19	SRP19 synthesize in a cell-free system specifically bind to RN7SL1 RNA 	
+RN7SL1	SRP54	SRP54 may be link to the rest of SRP through this domain by a direct interaction with RN7SL1 RNA 	
+Rncr4	DBX	Rncr4 a an RNA associate with DBX 	
+rncs-1	dcr-1	C elegans highly double-stranded lncRNA rncs-1 be densely bind but not efficiently cleave by dcr-1 	
+rncs-1	dcr-1	rncs-1 can bind dcr-1 in vitro 	
+RNY1	HNRNPK	both PTBP1 and HNRNPK bind to RNY1 RNA directly 	
+RNY1	NCL	NCL bind to the RNY1 and hY3 RNPs both in vivo and in vitro 	
+RNY1	PTBP1	both PTBP1 and HNRNPK bind to RNY1 RNA directly 	
+RNY1	TRIM21	Binding of TRIM21 to RNY1 RNA require the presence of TROVE2 which strongly suggest that the association of TRIM21 with Ro RNPs be mediate by protein-protein interaction between TROVE2 and TRIM21 	
+RNY1	TROVE2	By immunodepletion of HeLa S100 extract for either TROVE2 TRIM21 or SSB follow by supplementation with recombinant TROVE2 or SSB it be demonstrate that both TROVE2 and SSB bind to RNY1 RNA directly without be influence by one of the other protein 	
+RNY1	SSB	By immunodepletion of HeLa S100 extract for either TROVE2 TRIM21 or SSB follow by supplementation with recombinant TROVE2 or SSB it be demonstrate that both TROVE2 and SSB bind to RNY1 RNA directly without be influence by one of the other protein 	
+hY3	NCL	NCL bind to the RNY1 and hY3 RNPs both in vivo and in vitro 	
+roX1	msl-2	roX1 and roX2 be bind by mle and msl-2 	
+roX1	mle	roX1 and roX2 be bind by mle and msl-2 	
+roX1	msl-1	roX1 RNA and msl-1 protein be colocalized to exactly the same chromosomal band 	
+roX2	msl-2	roX1 and roX2 be bind by mle and msl-2 	
+roX2	mle	roX1 and roX2 be bind by mle and msl-2 	
+RUNXOR	EZH2	RUNXOR bind RUNX1 protein and EZH2 to the gene promoter 	
+SCA8	stau	SCA8 can recruit stau 	
+shlnc-EC6	RAC1	RAC1 be a direct target of shlnc-EC6 	
+Six3OS	Eya1	EZH2 and Eya1 Eya3 Eya4 directly bind Six3OS 	
+Six3OS	Eya3	EZH2 and Eya1 Eya3 Eya4 directly bind Six3OS 	
+Six3OS	Eya4	EZH2 and Eya1 Eya3 Eya4 directly bind Six3OS 	
+Six3OS	EZH2	EZH2 and Eya1 Eya3 Eya4 directly bind Six3OS 	
+Pwcr1	Rbbp5	Pwcr1 bind to Rbbp5 and target loci genome wide 	
+SOX2OT	EZH2	knock down SOX2OT decrease EZH2 expression 	
+SPRY4-IT1	ZNF703	ZNF703 be a target of SPRY4-IT1 and be downregulated by SPRY4-IT1 knockdown 	
+SPRY4-IT1	LPIN2	SPRY4-IT1 Is Localized to the Polysome Fraction and Binds the Lipid Phosphatase LPIN2 	
+SPRY4-IT1	EZH2	Chromatin immunoprecipitation assay indicate that EZH2 could directly bind to the SPRY4-IT1 promoter region 192 to 362 bp and mediate H3K27me3 modification 	
+SRA1	SPEN	SPEN bind the RNA coactivator SRA1 SPEN directly bind SRA1 RNA 	
+ssrS	rpoD	these result indicate the interaction between ssrS RNA and rpoD be specific and direct 	
+TARID	GADD45A	TARID interacts with both the TCF21 promoter and GADD45A a regulator of DNA demethylation 	
+TER2	TERT	TERT preferentially associate with TER2 over TER2 in vivo 	
+TERC	XRCC6	Human XRCC6 XRCC5 interact directly with TERC the RNA component of human TERC 	
+TERC	XRCC5	Human XRCC6 XRCC5 interact directly with TERC the RNA component of human TERC 	
+TERC	PINX1	In vitro PINX1 bind directly to the TERC binding domain as well a to the TERC subunit 	
+TERC	HNRNPA1	A1 SCGB1A1 HNRNPA1 SCGB1A1 can interact directly with the RNA component of human TERC 	
+TERC	SCGB1A1	SCGB1A1 can bind to the 5 half of TERC 	
+TERC	HNRNPC	HNRNPC associate directly with TERC in the native human TERC holoenzyme 	
+TERC	TERT	Each TERT of these element independently bind to the TERC reverse transcriptase 	
+TERC	RPL22	STAU1 and RPL22 specifically associate with TERC in vivo 	
+TERC	STAU1	STAU1 and RPL22 specifically associate with TERC in vivo 	
+TERC	TEP1	TEP1 be not a general RNA binding protein but specifically bind TERC RNA 	
+TERRA	hnRNPA1	On binding of TERRA hnRNPA1 can alleviate the TERRA-mediated inhibition of telomerase 	
+TERRA	YKU80	YKU70 and YKU80 bind TERRA 	
+TERRA	YKU70	YKU70 and YKU80 bind TERRA 	
+TERRA	ORC1	TERRA RNA can interact directly with the TRF2 GAR and ORC1 to form a stable ternary complex 	
+TERRA	CBX1	CBX5 and CBX1 bind TERRA RNA whereas control vector and Cbx3 do not bind TERRA in the RNA-IP assay 	
+TERRA	CBX5	CBX5 and CBX1 bind TERRA RNA whereas control vector and Cbx3 do not bind TERRA in the RNA-IP assay 	
+TERRA	H3f3a	TERRA be also highly enrich in H3f3a K9me3 RNA-ChIP 	
+TERRA	TRF1	TRF1 and TRF2 associate directly with TERRA RNA in vivo in multiple cell type 	
+TERRA	TRF2	TRF1 and TRF2 associate directly with TERRA RNA in vivo in multiple cell type 	
+TERRA	SUV39H1	SUV39H1 can bind directly via it N-terminal chromodomain the UUAGGG repeat array of the TERRA transcript with moderate specificity 	
+TH2LCRR	WDR5	TH2LCRR lncRNAs bind to hnRNPs and WDR5 	
+THRIL	HNRNPL	THRIL Interacts with HNRNPL to Regulate TNF epsilon Induction 	
+TINCR	STAU1	TINCR RNA bind to the staufen1 STAU1 protein directly 	
+TINCR	STAU1	TINCR could bind to STAU1 staufen1 protein and influence KLF2 mRNA stability and expression then KLF2 regulate cyclin-dependent kinase 	
+TLC1	EST1	an essential EST1 bind interface in TLC1 can be functionally replace with a heterologous RNA-Protein direct-binding system 	
+TLC1	YKU80	An interaction between Ku YKU70 YKU80 and TLC1 RNA be demonstrate by co-immunoprecipitation 	
+TLC1	YKU70	An interaction between Ku YKU70 YKU80 and TLC1 RNA be demonstrate by co-immunoprecipitation 	
+TLC1	EST1	So EST1 in the telomerase complex be to bind to the TLC1 telomerase RNA via an RRM 	
+lincRNA-p21	VHL	Hypoxia HIF1A induce lincRNA-p21 be able to bind HIF1A and VHL and thus disrupt the VHL-HIF-1 interaction 	
+lincRNA-p21	HNRNPK	lincRNA-p21 physically interact with HNRNPK 	
+lincRNA-p21	HNRNPK	lincRNA-p21 act with HNRNPK a a transcriptional co-activator of p53-mediated expression of p21 	
+lincRNA-p21	mdm2	lincRNA-p21 a transcriptional target of p53 feed back to enhance p53 transcriptional activity at least in part via bind to mouse double minute 2 mdm2 an E3 ubiquitin-protein ligase 	
+lincRNA-p21	HNRNPK	lincRNA-p21 physically interact with HNRNPK 	
+Tsix	Dnmt3a	Dnmt3a be reproducibly find in a complex with Tsix RNA in both male and female ES cell 	
+Ttc39aos1	Pycard	Ttc39aos1 act by repress a number of pro-apoptotic protein most prominently the caspase activate adaptor protein Pycard 	
+TUG1	PKD2	This movement be the consequence of binding of methylated and unmethylated PKD2 to the ncRNAs TUG1 and MALAT1 NEAT2 locate in PcGs and ICGs respectively 	
+TUG1	EZH2	TUG1 be induce by p53 bind to PRC2 EZH2 SUZ12 and EED1 	
+TUG1	SUZ12	TUG1 be induce by p53 bind to PRC2 EZH2 SUZ12 and EED1 	
+TUNA	HNRNPK	TUNA function by interact with the RNA-binding protein PTBP1 HNRNPK and NCL 	
+TUNA	NCL	TUNA function by interact with the RNA-binding protein PTBP1 HNRNPK and NCL 	
+TUNA	PTBP1	TUNA function by interact with the RNA-binding protein PTBP1 HNRNPK and NCL 	
+UCA1	PTBP1	an interaction of UCA1 and PTBP1 in K562 cell 	
+UCA1	PTBP1	Interaction of PTBP1 with UCA1 increase the stability of UCA1 When UCA1 be overexpressed the cytoplasmic PTBP1 be recruit to UCA1 such that less PTBP1 be available to p27 lead cell cycle arrest at G1 	
+UCA1	Wnt6	Up-regulation of UCA1 activate Wnt signal in a Wnt6 dependent manner We finally demonstrate that UCA1 increase the cisplatin resistance of bladder cancer cell by enhance the expression of Wnt6 	
+D-X	EZH2	D-X be physically combine with EZH2 	
+vRNA	SSB	SSB interact with the vRNA both in vivo and in vitro presumably through bind to 3 uridylates 	
+vRNA	TEP1	Using a yeast three-hybrid assay we demonstrate that several of the human vRNA interact in a sequence-specific manner with TEP1 	
+WSPAR	BRG1	The interaction of WSPAR with the three SWI SNF BRG1 SMARCB1 component be far validate by RNA immunoprecipitation RIP 	
+WSPAR	SMARCB1	The interaction of WSPAR with the three SWI SNF BRG1 SMARCB1 component be far validate by RNA immunoprecipitation RIP 	
+Xist	SPEN	Xist silence transcription by directly interact with SPEN recruit SMRT activate HDAC3 and deacetylating histone to exclude Pol II across the X chromosome 	
+Xist	Atrx	Atrx unexpectedly function a a high-affinity RNA-binding protein that directly interact with RepA Xist RNA to promote loading of PRC2 in vivo 	
+Xist	EZH2	EZH2 interact with HOTAIR and Xist 	
+Xist	HNRNPU	HNRNPU Directly Interacts with Xist RNA via RGG RNA-Binding Domain 	
+Xist	EZH2	a 1 6 kb ncRNA within Xist call RepA be find to bind the Polycomb complex PRC2 EZH2 SUZ12 and EED1 directly 	
+Xist	Hrh4	Experiments indicate that histone H3f3a lysine 27 trimethylation H3K27m3 and Hrh4 lysine 20 monomethylation H4K20m1 be associate with Xist expression in undifferentiated ES cell and mark the initiation of X inactivation 	
+XIST	BRCA1	BRCA1 associate with XIST RNA 	
+Xist	H3f3a	A hotspot of H3f3a Lys-9 methylation situate upstream of Xist likely bind a chromodomain protein 	
+Xist	H2afy	Xist RNA might directly interact with H2afy or alternatively Xist RNA might alter chromatin structure in a way that facilitate the recruitment of H2afy 	
+Xist	H2afy	H2afy accumulate a MCBs that be associate with Xist RNA signal upon differentiation and concomitant X inactivation 	
+XIST	BRCA1	A XIST interacting partner BRCA1 function in DNA damage pathway a a ubiquitin ligase 	
+XIST	SRSF1	the ncRNAs represent in the SRSF1 CLIP-seq data be 23 snoRNAs three microRNA precursor and the 5 8S rRNA XIST and MALAT1 RNAs 	
+XIST	NXF1	The export factor NXF1 bind poorly to XIST RNA in comparison to export mRNAs suggest that reduce NXF1 binding may contribute to nuclear retention of XIST RNA 	
+XIST	BRCA1	Chromatin immunoprecipitation experiment have demonstrate that BRCA1 physically associate with XIST RNA 	
+Xist	H2afy	These result demonstrate that Xist repression mainly affect H2afy deposition but not H3K27me3 on the Xi of pre-iPSCs 	

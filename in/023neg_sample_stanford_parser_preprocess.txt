@@ -1,0 +1,397 @@
+TMPO-AS1	TMPO	decrease Knockdown TMPO-AS1 of level the mRNA and protein TMPO of cell in NSCLC 	
+FAM99A	HTR-8	induce overexpression FAM99A decrease a rate in the apoptotic cell of increase whereas knockdown FAM99A of rate the apoptotic cell of HTR-8 SVneo 	
+GAS5	YY1	decrease polymorphism rs55829688 T C could level the expression GAS5 of impact by ability the bind YY1 of the transcription factor Yin Yang-1 region to the GAS5 promoter 	
+AFAP1-AS1	vimentin	regulation Down result of AFAP1-AS1 increase in an E-cadherin in and decrease a vimentin in 	
+MALAT1	NSPc1	cause overexpression NSPc1 of decrease a expression in the MALAT1 of and MEG3 and expression increase SOX2OT of 	
+MEG3	NSPc1	cause overexpression NSPc1 of decrease a expression in the MALAT1 of and MEG3 and expression increase SOX2OT of 	
+GASL1	TGF-beta1	correlate GASL1 Blood and TGF-beta1 be negatively patient in aneurysm with intracranial 	
+OXCT1-AS1	JAK1	inhibit OXCT1-AS1 miR-455-5p decrease to it binding region to the JAK1 3 - untranslated 	
+MALAT1	FISH	find We association no result between the FISH and expression MALAT1 patient in 	
+lncKBTBD10	KBTBD10	elucidate study In short our induce that lncKBTBD10 could decrease a protein of KBTBD10 and further affect to myogenesis bovine skeletal muscle 	
+MALAT1	CDK2	induce addition In knockdown MALAT1 increase an mRNA in both the and level protein P21 of and p-ERK1 of P53 phosphorylated ERK1 2 2 and cause level phosphorylated c-Jun N-terminal protein kinase p-JNK protein as well a decrease a D1 in dependent cyclin kinase 2 CDK2 cyclin and level p-P38 MAPK protein 	
+MALAT1	MAPK	induce addition In knockdown MALAT1 increase an mRNA in both the and level protein P21 of and p-ERK1 of P53 phosphorylated ERK1 2 2 and cause level phosphorylated c-Jun N-terminal protein kinase p-JNK protein as well a decrease a D1 in dependent cyclin kinase 2 CDK2 cyclin and level p-P38 MAPK protein 	
+H19	IGF2	associate repression biallelic Surprisingly H19 be not level with equal expression of IGF2 chromosome from both parental 	
+Neat1	MeCP2	repress Neat1 be protein by methyl CpG binding 2 MeCP2 interaction by RNA-protein 	
+NKX2-1-AS1	NKX2-1	regulate NKX2-1-AS1 do not expression NKX2-1 or gene nearby 	
+MYU	VPS9D1	regulate MYU lncRNA do not expression the VPS9D1 of mRNA either at the or level protein qRT-PCR a detected use and assay western blotting 	
+ANRIL	CRP	associate Furthermore while expression lncRNA ANRIL be negatively level with hs - CRP 	
+lncRNA-ATB	TGF-b1	show use lncRNA-ATB Serum can be predict to accurately overexpression PTC and it prognosis lncRNA-ATB promote migration tumor cell and overexpression invasion lncRNA-ATB increase effect no significant expression on TGF-beta1 and treatment TGF-beta1 level the expression CONCLUSIONS of lncRNA-ATB promotes Upregulation lncRNA-ATB of TGF-b1 by migration and invasion cell of PTC 	
+cyrano	CDK4	change Overexpression lead of wild type cyrano CDK4 to strong and expression CDK6 however protein these two do not upregulated when cyrano mutated be 	
+cyrano	CDK6	change Overexpression lead of wild type cyrano CDK4 to strong and expression CDK6 however protein these two do not upregulated when cyrano mutated be 	
+AFAP1-AS1	N-cadherin	suppress decrease The expression in AFAP1-AS1 significantly level the expression protein of N-cadherin cell in GC and increase that E-cadherin of 	
+ANRIL	PRC2	interact ANRIL cell in UC may not PRC2 with central which be repression for initialize gene 	
+MALAT1	CMPK	lead Inhibition result of MALAT1 increase in an expression of miR-143-3p decrease to a expression of CMPK protein 	
+KCNQ1OT1	SMAD4	report Additionally the present study regulate that increase and decrease KCNQ1OT1 of expression SMAD4 	
+MALAT1	NRF1	downmodulated antagonism Of note MALAT1 of activator the two major transcriptional gene of proteasome subunit NRF1 namely and NRF2 	
+MALAT1	NRF2	downmodulated antagonism Of note MALAT1 of activator the two major transcriptional gene of proteasome subunit NRF1 namely and NRF2 	
+PlncRNA-1	CBR3	be There association no PlncRNA-1 between lncRNA and expression CBR3 tissue in osteosarcoma 	
+cyrano	CEBPA	contribute knockdown luciferase assay cyrano or over-expression miR-367-3p decrease to a enhancer in CEBPA CCAAT bind protein protein alpha 	
+PCA1	EMT	suppress Knockdown PCA1 of cell in U2OS invasion cell proliferation cell and migration and EMT 	
+GAS5	Notch1	function GAS5 ceRNA a a compete endogenous RNA miR-137 for regulate to de-repression the it of Notch1 endogenous target and decrease survival neuron inactivation through pathway of the Notch1 signal 	
+FOXF1-AS1	FOXF1	have FOXF1 do not effect the same FOXF1-AS1 on 	
+UPH	HAND2	regulate HAND2 be not UPH by EEC in 	
+miR-106a-5p	PTEN	increase NORAD down-regulated decrease expression the miR-106a-5p of miR-106a-5p abundance the protein of PTEN 	
+miR-199a	FGF1	block over-expression Map2k4 do not inhibition the expression of FGF1 miR-199a by 	
+LincRNA-p21	TP53	down-regulated LincRNA-p21 be tissue in tumor but observe association no be status with TP53 mutational 	
+PANDA	p53	associate Depletion PANDA of be level with decreased protein of p53 not but p53 mRNA 	
+TUSC7	EphA4	decrease TUSC7 could expression the EphA4 of Eph tyrosine kinase receptor A4 	
+HOTAIR	ROS	lead decrease the expression of HOTAIR defect to ROS related function in sperm 	
+M41	EMT	express M41 The abundant most AER lncRNA be carcinoma in ERalpha + breast but lesion not in pre-neoplastic and correlate inversely marker with EMT 	
+miR-186	XIAP	bind miR-186 XIAP to and region PAK7 3 UTR and decrease expression the them of 	
+HOTTIP	HOXA13	regulate HOTTIP do not HOXA13 	
+BANCR	MAPK	find BANCR be regulate to proliferation LC and migration MAPK via not ERK but MAPK p38 and inactivation JNK 	
+miR-675	INSR	inhibit miR-675 only not expression the IGF1R of manner in a similar human in and murine cell but observe we also it effect negative expression on the INSR of the 	
+NEAT1	SR	show NEAT1 have not be bind to protein SR 	
+P21	NFKB1	alter level Decreased P21 of do not transcript NFKB1 or RELA 	
+P21	RELA	alter level Decreased P21 of do not transcript NFKB1 or RELA 	
+H19	AFB1	clear relationship any possible AFB1 between and H19 be not 	
+SAF	sFas	correlate Levels SAF of inversely production with sFas of 	
+MEG3	p21	stimulate MEG3 do not expression p21 CIP1 	
+Xist	Oct4	correlate level Xist and Oct4 expression be not stage at the 8-cell 	
+XIST	BRCA1	have difference complex epigenetic subpopulation between tumor cell can effect striking accumulation on XIST transcription and localization but correlate this do not strictly BRCA1 with 	
+cyrano	NLRP6	term In mechanism of bind cyrano directly EZH2 to and obstruct speed expression NLRP6 up progression GC 	
+LINC00052	STAT3	repress LINC00052 could metastasis and invasion cell of cervical cancer suppress via STAT3 	
+H19	IGF-2	observe Loss imprinting of H19 of and IGF-2 be sample in carcinoma of human bladder 	
+H19	Igf-2	use We transcription-PCR reverse analyze to expression the allele-specific IGF2R of Igf-2 and H19 testis in the and ovary mouse of cross derive interspecies from an musculus between Mus and spretus Mus 	
+H19	IGF2R	use We transcription-PCR reverse analyze to expression the allele-specific IGF2R of Igf-2 and H19 testis in the and ovary mouse of cross derive interspecies from an musculus between Mus and spretus Mus 	
+H19	Igf2	arise pattern allelic methylation Igf2 in and H19 early embryogenesis in and change development progressively during 	
+H19	Igf2	raise This possibility the involve that imprint H19 of be maintenance only in the and initiation not in the expression of monoallelic Igf2 of 	
+H19	IGF2	regulate H19 In cervical cancer and expression IGF2 could be independently 	
+H19	IGF2	express express IGF2 be allele only from the paternal and H19 be allele only from the maternal 	
+H19	Igf2	always expression the H19 of and Igf2 gene be not allele from their respective maternal and paternal 	
+H19	p95	association The H19 of and p95 expression gene warrant in drug resistance study far 	
+H19	SNRPN	Using hybridization fluorescence in situ localize we homeologues the marsupial IGF2 of and H19 part to the distal 2p of tammar wallaby chromosome and homeologues the marsupial SNRPN of and ZNF127 middle to the 1q of chromosome 	
+H19	KIP2	reduce WTs Among case without LOH most inactivation with H19 also have expression KIP2 and case most expression with persistent H19 have level high mRNA of KIP2 	
+H19	hNAP2	homologous gene This be NAP1 to yeast nucleosome assembly protein and homologue to a human NAP1 of and designate we diverges hNAP2 it protein hNAP2 human nucleosome assembly 2 pattern in it expression H19 from IGF2 and p57KIP2 and show it expression biallelic test in all tissue 	
+H19	L23MRP	describe We previously expression biallelic kb of L23MRP 40 downstream H19 of 	
+H19	TNNT3	suggest expression Parallel H19 of and TNNT3 type in different adult skeletal muscle share that gene these may enhancer an 	
+H19	IGF2	express play While IGF2 presumably role a tumorigenesis in H19 of Wilms tumor be not majority in the tumor of Wilms 	
+H19	Igf2	dependent imprinting The Igf2 of the and Ins2 gene be transcription on the gene of the downstream H19 	
+H19	Ins2	dependent imprinting The Igf2 of the and Ins2 gene be transcription on the gene of the downstream H19 	
+H19	Igf2	part Igf2 and H19 be region of a large imprinting and step a a first examine we use gene these reciprocally imprint experiment in transgenic clone a kb 130 YAC 	
+H19	IGF2	document Although result our instance one correlate which in loss a post neoplastic activity of H19 appear loss with imprint of IGF2 level at the cellular it independent that inactivation H19 of be generally more loss of imprinting of IGF2 of specimen at least in our 	
+H19	Igf2	be There change no significant Igf2 in or H19 expression brain in 	
+H19	IGF2	suggest addition In lack a correlation of IGF2 between and status H19 imprint lose that imprint any regional parental have be functionally 	
+H19	Mash2	characterize We region a 800-kb end on the distal chromosome of mouse 7 contain that cluster a Kvlqt1 of four express maternally gene H19 Mash2 and Kip2 p57 Igf2 as well a two express paternally gene and Ins2 and assess expression the and imprinting Kvlqt1 of Mash2 and Kip2 p57 development during tissue in embryonic and extraembryonic 	
+H19	Kvlqt1	characterize We region a 800-kb end on the distal chromosome of mouse 7 contain that cluster a Kvlqt1 of four express maternally gene H19 Mash2 and Kip2 p57 Igf2 as well a two express paternally gene and Ins2 and assess expression the and imprinting Kvlqt1 of Mash2 and Kip2 p57 development during tissue in embryonic and extraembryonic 	
+H19	p57	characterize We region a 800-kb end on the distal chromosome of mouse 7 contain that cluster a Kvlqt1 of four express maternally gene H19 Mash2 and Kip2 p57 Igf2 as well a two express paternally gene and Ins2 and assess expression the and imprinting Kvlqt1 of Mash2 and Kip2 p57 development during tissue in embryonic and extraembryonic 	
+H19	Igf2	locate H19 and Igf2 be domain within a large imprinting confers that silencing monoallelic allele of parental 	
+H19	VHL	analyse Therefore we methylation MYC of the VHL CDKN2 and gene H19 sample in primary RCC 	
+H19	CDKN2	analyse Therefore we methylation MYC of the VHL CDKN2 and gene H19 sample in primary RCC 	
+H19	MYC	analyse Therefore we methylation MYC of the VHL CDKN2 and gene H19 sample in primary RCC 	
+H19	CDKN2	analyse have None RCCs of the 11 methylated VHL at evidence methylation of CDKN2 at either or methylation MYC CDKN2 at demonstrate detect be however 33 in 3 or 1 RCCs of pattern without VHL methylation A normal methylation H19 at be RCCs in the three VHL with methylated 	
+H19	MYC	analyse have None RCCs of the 11 methylated VHL at evidence methylation of CDKN2 at either or methylation MYC CDKN2 at demonstrate detect be however 33 in 3 or 1 RCCs of pattern without VHL methylation A normal methylation H19 at be RCCs in the three VHL with methylated 	
+H19	Igf2	rule We out importance the methylation of DNA Igf2 at show by accompany that silence Igf2 of loss the methylation of DNA overcome could be mutation by a gene at the neighbor H19 activate that Igf2 	
+H19	Igf2	involve model a transcriptional explanation access set to a common share of enhancer Igf2 between and H19 be the likely most imprint for Igf2 	
+H19	Igf2	describe cell For origin of neuroectodermal absence complete Igf2 of and transcription H19 be previously 	
+H19	Igf2	find Apart H19 from the ventral midline region and Igf2 be coexpressed to be pouch in the derive ectodermally Rathke s and organ in some circumventricular brain of the 	
+BC200	La	bind As transcripts with other RNA polymerase III protein La affinity with high end to the 3 RNA of BC200 	
+H19	IGF2	indicate data These prone that IGF2 not but H19 be loss to imprint of cancer in breast 	
+H19	IGF2	suggest data These common that LOI H19 at and IGF2 also may be GCTs in pediatric testicular 	
+H19	PR-A	provide perform Interestingly experiment the same line in BT-20 cell result similar very a obtain those cell in MCF-7 down-regulation with a clear mediate PR-A by promoter on the H19 	
+H19	Igf2	subject H19 The link and gene Igf2 chromosome on mouse distal 7 be genomic to imprinting 	
+H19	Igf2	require activity transcriptional promoter from the H19 be not silencing for the imprinted gene of the Igf2 	
+H19	IGF-II	suggest Loss LOI of imprint IGF-II of and H19 have be event to be an early oncogenic cancerogenesis in 	
+H19	SNRPN	document contrast In report to previous we could methylated rise one only case cell from germ H19 by meiosis-II nondisjunction and SNRPN be teratoma in individual range to various degree cell from normal somatic expect to level ovum 	
+H19	SNRPN	increase Degrees hypomethylation of H19 and hypermethylation SNRPN origin a the cellular advance of the tumor oogenesis in and correlate be closely teratoma in individual 	
+H19	Igf2	express Although lymphocyte do not H19 and Igf2 reactivate gene both be manner in a proper monoallelic cell in hybrid 	
+H19	U2af1-rs1	conclude We maintain that imprint the U2af1-rs1 of the H19 and Igf2 gene be lymphocyte in mouse in adult 	
+H19	Igf2	conclude We maintain that imprint the U2af1-rs1 of the H19 and Igf2 gene be lymphocyte in mouse in adult 	
+H19	Igf2	model H19 The and gene insulin-like growth factor 2 Igf2 mouse in the be imprinting for genomic development during 	
+MIR210HG	DNMT1	detect condition The bind MIR210HG of and DNMT1 DNA methyltransferase 1 be RNA by bind immunoprecipitation protein 	
+MIR210HG	CACNA2D2	conduct experiment Rescue be assess to reverse whether CACNA2D2 can function the MIR210HG of 	
+MIR210HG	DNMT1	recruit inhibit knockdown MIR210HG remarkably proliferation and migration MIR210HG of NSCLC cell could promote DNMT1 thereafter methylation overexpression of CACNA2D2 promoter region CACNA2D2 inhibit remarkably proliferation cell 	
+MIR210HG	CACNA2D2	recruit inhibit knockdown AMIR210HG remarkably proliferation and migration MIR210HG of NSCLC cell could promote DNMT1 thereafter methylation overexpression of CACNA2D2 promoter region CACNA2D2 inhibit remarkably proliferation cell 	
+MIR210HG	CACNA2D2	inhibit Moreover induce proliferation knockdown by MIR210HG reverse be knockdown by CACNA2D2 	
+ROR	Raf	protect ROR cell H9c2 damage against hypoxia-caused regulation by miR-145 of activate through ERK Ras Raf MEK and AKT PI3K 	
+MIR503HG	SOX4	induce downregulation The MIR503HG of lncRNA XAV939 by serve may role an important suppression in NSCLC miR-1273c via sponge and regulate expression SOX4 	
+FAM224A	ZNF143	employ RT-PCR Quantitative and analysis western blot be detect to level the expression family of A1CF lncRNA similarity with sequence protein 224 member A FAM224A miR-590-3p zinc finger ZNF143 143 and ArfGAP repeat with SH3 domain ankyrin and ASAP3 domain PH 3 tissue in glioma and line cell 	
+FAM224A	A1CF	ascertain Finally assay the xenograft tumor growth far upregulated role the biological FAM224A of A1CF and miR-590-3p A1CF in glioma cell be and function oncogene a an stabilizing via and increase expression FAM224A indicate A1CF high moreover and level FAM224A expression prognosis a poor patient for glioma 	
+FENDRR	HuR	reduce FENDRR interaction the HuR of the RNA-binding protein MDR1 with act via sponge a a 	
+FENDRR	MDR1	reduce FENDRR interaction the HuR of the RNA-binding protein MDR1 with act via sponge a a 	
+LINC00689	PKM2	abolish restoration PKM2 of effect the silence of LINC00689 invasion on glioma cell proliferation migration and glycolysis 	
+LINC00511	PTX	suppress silencing LINC00511 of could resistance cell migration to PTX cell viability cell proliferation and invasion promote yet apoptosis cell cell in PTX-resistant Hela PTX 	
+LINC00511	PTX	aim study The present collect define to role the LINC00511 of long non-coding RNA lncRNA progression in the CC of involvement with the apoptosis of cell proliferation and resistance PTX to CC in Hela PTX cell and sample adjacent normal tissue be patient from 84 CC with 	
+ANRIL	OGD	regulate ANRIL negatively overexpression miR-127 expression miR-127 enhance significantly injury OGD - induced PC-12 cell 	
+MALAT1	ABI3BP	impede silencing MALAT1 and elevation ABI3BP development the GBC suppression through the H3K27 methylation induce highlight by EZH2 paradigm a promising competitive approach for therapeutic GBC of 	
+MALAT1	MMP-9	suppress Transfection siRNA of MALAT1 expression it cell in endometrial inhibit proliferation cell or invasion enhance activity caspase 3 decrease compare iNOS NF - B or expression MMP-9 p 005 control to group 	
+Evf-2	DNMT	quantify We result our evaluate by proliferation the spheroid formation and ability tumor formation proportion as well a the cell of tumor stem and recruitment the DNMT of DNA methyltransferase LCSCs in overexpressed when Evf-2 lncRNA be either or silence 	
+Evf-2	DNMT1	contribute downregulation Evf-2 of lncRNA reduction to a methylation in CADM1 promoter suppression via DNMT3a of DNMT1 and DNMT3b LCSCs in and inactivate pathway the STAT3 signal 	
+Evf-2	DNMT3a	contribute downregulation Evf-2 of lncRNA reduction to a methylation in CADM1 promoter suppression via DNMT3a of DNMT1 and DNMT3b LCSCs in and inactivate pathway the STAT3 signal 	
+Evf-2	DNMT3b	contribute downregulation Evf-2 of lncRNA reduction to a methylation in CADM1 promoter suppression via DNMT3a of DNMT1 and DNMT3b LCSCs in and inactivate pathway the STAT3 signal 	
+ROR	ERK	alleviate ROR lncRNA injury CoCl2-induced hypoxia regulation through miR-145 of signalling as well a modulate ERK and MAPK 	
+ROR	MAPK	alleviate ROR lncRNA injury CoCl2-induced hypoxia regulation through miR-145 of signalling as well a modulate ERK and MAPK 	
+ROR	ERK	induces CoCl2 Highlights reduce Overexpression ROR upregulation ROR of injury CoCl2-induced HK-2 cell ; promote Silence ROR of injury CoCl2-induced HK-2 cell ; Overexpression expression of ROR decrease miR-145 ; modulates overexpression ROR pathway ERK and MAPK signalling regulation through miR-145 of 	
+ROR	MAPK	induces CoCl2 Highlights reduce Overexpression ROR upregulation ROR of injury CoCl2-induced HK-2 cell ; promote Silence ROR of injury CoCl2-induced HK-2 cell ; Overexpression expression of ROR decrease miR-145 ; modulates overexpression ROR pathway ERK and MAPK signalling regulation through miR-145 of 	
+H19	Cox	show regression Cox and analysis correlation compete that H19 and other some RNAs endogenous network in the associate be prognosis with poor and parameter clinical grade such a tumor and metastasis 	
+H19	MET	reduce Knockdown H19 of level the protein ZEB1 of MET and COL1A1 regulate H19 in vitro pathway PI3K-Akt signal network through a compete endogenous RNA and predict prognosis poor cancer in colorectal 	
+TDRG1	Hela	inhibit Knockdown TDRG1 of migration the cell proliferation and invasion Hela in and cell SIHA 	
+linc00423	MAPK	pulldown RNA sequence RNA and evidence RIP assay involve that linc00423 pathway in MAPK signal destabilizing via factor of nuclear T-cells of activated NFATC3 3 	
+linc00423	MAPK	act linc00423 suppressor a the tumor cell in RLS regulate through level the protein NFATC3 of level at a post-transcriptional and regulate negatively pathway the MAPK signal level at a transcriptional 	
+linc00423	NFATC3	pulldown RNA sequence RNA and evidence RIP assay involve that linc00423 pathway in MAPK signal destabilizing via factor of nuclear T-cells of activated NFATC3 3 	
+linc00423	NFATC3	act linc00423 suppressor a the tumor cell in RLS regulate through level the protein NFATC3 of level at a post-transcriptional and regulate negatively pathway the MAPK signal level at a transcriptional 	
+LINK-A	p53	enhance expression LINK-A mediate polyubiquitination K48 degradation PLC of the antigen peptide-loading complex and Rb intrinsic tumor suppressor and p53 	
+SGO1-AS1	SGO1	quantify study In the current we expression SGO1 of and SGO1-AS1 tissue in 39 breast cancer and ANCTs their paired adjacent non-cancerous tissue 	
+OTUD6B-AS1	OTUD6B	downregulated record While difference no be level at the basal HC between and Fb SSc dermal expression the OTUD6B-AS1 of and OTUD6B be significantly SSc in both and Fb HC dermal stimulation after PDGF manner in a time-dependent 	
+OTUD6B-AS1	IL-4	observe effect mild Only and inconsistent be IL-4 with TGFbeta and knockdown IL-13 OTUD6B-AS1 Fb in and HPASMC affect do not matrix extracellular or production pro-fibrotic proinflammatory cytokine 	
+OTUD6B-AS1	IL-13	observe effect mild Only and inconsistent be IL-4 with TGFbeta and knockdown IL-13 OTUD6B-AS1 Fb in and HPASMC affect do not matrix extracellular or production pro-fibrotic proinflammatory cytokine 	
+OTUD6B-AS1	OTUD6B	reduce Moreover silencing OTUD6B-AS1 of significantly proliferation and suppressed apoptosis Fb in both dermal and knockdown HPASMC OTUD6B-AS1 affect do not expression OTUD6B level at the mRNA and level protein 	
+OTUD6B-AS1	D1	regulates OTUD6B-AS1 proliferation and apoptosis expression via cyclin D1 gene in a sense manner independent 	
+MiR-145	EPHA4	exert MiR-145 effect a protective viability in cell model in the OGD downregulating by EPHA4 	
+U17HG	Oct4	form U17HG identify network a positive feedback Nanog with and Oct4 and protein 126 U17HG interact be mESCs in 	
+U17HG	Nanog	form U17HG identify network a positive feedback Nanog with and Oct4 and protein 126 U17HG interact be mESCs in 	
+H19	IGFBPrP1	induce define To relationship the IGFBPrP1 between and autophagy and role the H19 of IGFBPrP1 in detect IGFBPrP1 hepatic fibrosis and autophagy be ligation in bile duct fibrosis BDL - induced hepatic 	
+H19	IGFBPrP1	transfected IGFBPrP1 Adenovirus-mediated be liver into mouse and cell JS-1 LY294002 with or without or rapamycin detect examine to effect the IGFBPrP1 of activation on HSCs and autophagy H19 as well a the PI3K AKT mTOR pathway lncRNA tissue in liver fibrosis and cell JS-1 induce IGFBPrP1 by be autophagy then and HSCs level activation detect be cell in JS-1 IGFBPrP1 by overexpression with H19 or expression knowdown IGFBPrP1 and level autophagy increase be concomitantly tissue in liver fibrosis with BDL-induced hepatic 	
+H19	IGFBPrP1	promote addition In H19 autophagy interact by pathway with the PI3K AKT mTOR IGFBPrP1 in induce promote IGFBPrP1 HSCs activation autophagy and contribute activation to HSCs regulation via mutual H19 between and pathway the PI3K AKT mTOR 	
+TUG1	HMGB1	achieve function The TUG1 of be miR-142-3p by sponge and release suppression the target of the putative HMGB1 of miR-142-3p and Rac1 	
+TUG1	Rac1	achieve function The TUG1 of be miR-142-3p by sponge and release suppression the target of the putative HMGB1 of miR-142-3p and Rac1 	
+MEG3	ILF3	transduce clarify To effect the MEG3 of cytotoxicity on the adenosine-induced MEG3 in hepatoma and lentivirus ILF3 be cell into human hepatoma HepG2 stimulate to overexpression MEG3 of MEG3 OE and overexpression ILF3 of ILF3 OE apply furthermore siRNA ILF3 small interfering RNA be also downregulate to expression the ILF3 of 	
+MEG3	ILF3	stimulate adenosine markedly MEG3 MEG3 expression OE decrease markedly expression the ILF3 cell in HepG2 and inhibition the adenosine-induced autophagy together ratio with the AKT of p-PI3K PI3K p-AKT and mTOR p-mTOR boost be also MEG3 by OE 	
+MEG3	ILF3	demonstrate study The present involve inhibition autophagy be cytotoxicity in the adenosine-induced cytotoxicity in HepG2 cell the synergized can be MEG3 by OE ILF3 via downregulated activate to mTOR PI3K Akt and inactivate pathway the beclin-1 signaling 	
+LINC01410	IFITM3	inhibit Down-regulation expression of LINC01410 relate proliferation the and migration cell of pancreatic cancer BxPC-3 and mechanism it may be closely regulate to expression the miR-497-5p and IFITM3 gene 	
+lncRNA-ATB	P65	facilitate Overexpression pathway of lncRNA-ATB activated nuclear factor - B and promote translocation P65 nucleus into the thus stimulate invasion glioma cell AAT3 by 	
+lncRNA-ATB	P38	enhance lncRNA-ATB markedly mediate AAT3 invasion cell of glioma activation through pathway P38 mitogen-activated protein kinase P38 MAPK 	
+MALAT1	ZEB1	promote addition In MALAT1 LncRNA expression ZEB1 cell in A549 	
+MALAT1	ZEB1	promote MALAT1 proliferation the and resistance gefitinib cell of lung cancer miR-200a by sponge regulate which expression ZEB1 of cell in the A549 	
+lncIHS	ERK	network a regulatory signal of ERK and AKT lncIHS through downstream which be SMYD3 of HBx and indicate they target that lncIHS may be a potential HCC for treat 	
+lncIHS	AKT	network a regulatory signal of ERK and AKT lncIHS through downstream which be SMYD3 of HBx and indicate they target that lncIHS may be a potential HCC for treat 	
+MEG3	AKT	decrease level Phosphorylated AKT of PI3K and AMPK AMP-activated protein kinase be overexpression by lncRNA MEG3 regulation via miR-211 of 	
+MEG3	PI3K	decrease level Phosphorylated AKT of PI3K and AMPK AMP-activated protein kinase be overexpression by lncRNA MEG3 regulation via miR-211 of 	
+MEG3	AMPK	decrease level Phosphorylated AKT of PI3K and AMPK AMP-activated protein kinase be overexpression by lncRNA MEG3 regulation via miR-211 of 	
+MEG3	AMPK	inhibit AKT The PI3K and pathway AMPK be overexpression by lncRNA MEG3 regulation via miR-211 of 	
+H19	AKT	explore To promote whether H19 lncRNA Long non-coding RNA could development the HL of Hodgkin s lymphoma regulate by proliferation cell expression via AKT pathway H19 hyperplasia in 60 HL tissue 40 RH reactive A20 of lymph node tissue L428 and line Ly1 cell construct evaluate be siRNA by quantitative real-time polymerase chain reaction qRT-PCR H19 and H19 pcDNA be 	
+H19	AKT	detect relationship The AKT between and H19 be far blot by Western 	
+H19	AKT	promote H19 Overexpressed lncRNA development HL stimulate by proliferation cell of HL pathway via AKT 	
+MALAT1	LDH	increase Knockdown MALAT1 of decrease viability the cardiomyocytes of PA-treated apoptosis and reduce level the tnfa of LDH CK-MB and IL1B 	
+MALAT1	HMGB1	repress downregulation the MALAT1 of expression HMGB1 thereby inhibit activation the response of the Toll-like receptor 4 TLR4 NF - B-mediated inflammatory 	
+MALAT1	HOTAIR	include Expression lncRNAs of analyze transcript metastasis-associated lung adenocarcinoma HOTAIR one MALAT1 HOX transcript antisense intergenic RNA and regulator long intergenic non-protein cod ROR of reprograming or ROR be also hybridization by in situ and RT-PCR 	
+ROR	HOTAIR	include Expression lncRNAs of analyze transcript metastasis-associated lung adenocarcinoma HOTAIR one MALAT1 HOX transcript antisense intergenic RNA and regulator long intergenic non-protein cod ROR of reprograming or ROR be also hybridization by in situ and RT-PCR 	
+NEAT1	STAT3	prove construct Lentivirus pretransfected interference short hairpin RNA NEAT1 for be cell into CD4 + T induce before treatment protein of Th17 cell differentiation NEAT1 target STAT3 be RNA by pull down 	
+NEAT1	STAT3	promote Moreover cotreatment the knockdown of NEAT1 and overexpression STAT3 differentiation Th17 cell compare knockdown with NEAT1 alone 	
+NEAT1	STAT3	conclude data These molecule that NEAT1 be auxo-active cell for CD4 + T inhibit differentiate cell into Th17 and knockdown NEAT1 of positively CD4 Th17 + differentiation T cell reduce through level the STAT3 protein 	
+GHET1	ABCC1	inhibit knockdown Finally GHET1 of also expression the protein of ABCC1 cell in Gemcitabine-resistant BC 	
+GHET1	ABCC1	relate expression High GHET1 of be sensitivity with the low Gemcitabine to GHET1 of BC contribute resistance to chemotherapeutic Gemcitabine to BC in up-regulating through expression ABCC1 	
+MALAT1	YAP	bind MALAT1 directly YAP to Yes-associated protein enhance thereby expression YAP protein and activity increase YAP transcriptional 	
+TUG1	p38	reverse SB203580 the p38 MAPK inhibitor change the induce that TUG1 level in the I of Beclin1 LC3 II LC3 and p62 	
+LNCAT	STAT3	enhance knockdown the LNCAT of activation the caspases-3 of and increase expression the protein JAK2 of Bax and STAT3 whereas decrease expression the BAL2 of and Bid 	
+LNCAT	Bax	enhance knockdown the LNCAT of activation the caspases-3 of and increase expression the protein JAK2 of Bax and STAT3 whereas decrease expression the BAL2 of and Bid 	
+LNCAT	JAK2	enhance knockdown the LNCAT of activation the caspases-3 of and increase expression the protein JAK2 of Bax and STAT3 whereas decrease expression the BAL2 of and Bid 	
+LNCAT	BAL2	enhance knockdown the LNCAT of activation the caspases-3 of and increase expression the protein JAK2 of Bax and STAT3 whereas decrease expression the BAL2 of and Bid 	
+LNCAT	Bid	enhance knockdown the LNCAT of activation the caspases-3 of and increase expression the protein JAK2 of Bax and STAT3 whereas decrease expression the BAL2 of and Bid 	
+BANCR	Bax	detect cause An increase apoptotic level overexpression by BANCR be also and display influence a conversed Bcl-2 on and Bax expression mRNA in and protein level 	
+BANCR	Bcl-2	detect cause An increase apoptotic level overexpression by BANCR be also and display influence a conversed Bcl-2 on and Bax expression mRNA in and protein level 	
+AGU2	IGF2	upregulated addition In mRNA both the and protein level expression IGF2 of insulin-like growth factor 2 be remarkably overexpression after AGU2 	
+UCA1	MAPK	use assay Luciferase activity be identify to CDK6 the mir-193a target 3 - weaken knockdown untranslated region UCA1 viability cell augment progression apoptosis behavior as well a suppress migration and invasion cell in glioblastoma exhibit whereas silence UCA1 function UCA1 the opposite function reverse sponge a an endogenous silence of miR-193a miR-193a function the biological knockdown of UCA1 miR-193a on U-118 MG cell regulate negatively expression the CDK6 of and affect it cell the U-118 MG regulate through abrogate overexpression CDK6 expression CDK6 blockage the MAPK of PI3K AKT mitogen-activated protein kinase and pathway Notch signaling 	
+MEG3	SNRPA	reveal siRNA Screen use cause depletion SNRNP70 of U1 snRNP component SNRPA or SNRPD2 localization significant cytoplasmic transcript of MEG3 reporter 	
+MEG3	SNRNP70	reveal siRNA Screen use cause depletion SNRNP70 of U1 snRNP component SNRPA or SNRPD2 localization significant cytoplasmic transcript of MEG3 reporter 	
+MEG3	SNRPD2	reveal siRNA Screen use cause depletion SNRNP70 of U1 snRNP component SNRPA or SNRPD2 localization significant cytoplasmic transcript of MEG3 reporter 	
+UCA1	Beclin1	decrease effect The inhibition of UCA1 miR-185 for be inference by lncRNA UCA1 and release Beclin1 the beta-Catenin TCF-4 and LC3 2 and reduce far autophagy the and growth cell in A549 	
+UCA1	CLIC1	upregulated UCA1 According to the bioinformatics analysis lncRNA and CLIC1 be both significantly BDC in compare while expression the decline of miR-122 group with the normal 	
+UCA1	CLIC1	upregulated UCA1 lncRNA and CLIC1 be both significantly BDC in compare while expression the decline of miR-122 group with the normal 	
+UCA1	CLIC1	verify relationship The target CLIC1 among UCA1 and miR-122 be promote UCA1 migration BDC cell and invasiveness inhibit while miR-122 serve CLIC1 their progression gene a the downstream target miR-122 of and have effect opposite 	
+UCA1	CLIC1	promote UCA1 metastasis the cell of BDC regulate by expression the miR-122 of and CLIC1 it downstream gene mRNA and promote activation the pathway of the ERK MAPK expand which horizon the therapy of targeted cholangiocarcinoma of 	
+LINC00052	CALCOCO1	demonstrate result importantly More the research of our regulate that LINC00052 could expression the CALCOCO1 of miR-574-5p via sponge CRC in 	
+FOXD1-AS1	eIF5a	result eIF5a Furthermore subunit protein eukaryotic translation initiation factor 5 A target a direct FOXD1-AS1 of 	
+FOXD1-AS1	eIF5a	indicate data These affect that target FOXD1-AS1 a miR339 342 process biological eIF5a via protein 	
+H19	p53	inhibit While p53 basis on the knockdown of H19 reverse effect the pro-neurogenesis inhibition of H19 	
+H19	p53	abolish decrease Furthermore H19 activity the transcriptional p53 of and expression the Notch1 of and p53 inhibition effect these H19 of 	
+LINC00052	CALCOCO1	perform assay Dual-luciferase reporter gene be identify to interaction the LINC00052 between and miR-574-5p or CALCOCO1 and miR-574-5p 	
+CRNDE	SIX1	demonstrate investigation Mechanistic interact that CRNDE lncRNA miR-337-3p with and decrease increase it expression thereby expression the protein s of miR-337-3p target SIX1 	
+CRNDE	SIX1	use addition In experiment in vivo reveal model a xenograft tumor mouse serve that CRNDE lncRNA oncogene a an miR-337-3p partly through sponge and upregulating SIX1 HCC in 	
+DDX11-AS1	LATS2	increase Knockdown DDX11-AS1 of level the mRNA and protein LATS2 of 	
+DDX11-AS1	LATS2	abolish Overexpression LATS2 of effect the promotive DDX11-AS1 of growth on cell and invasion 	
+DDX11-AS1	LATS2	decrease level The mRNA LATS2 of be markedly tissue in tumor and correlate negatively expression with DDX11-AS1 	
+ANRIL	IL-10	correlate ANRIL Besides lncRNA be also positively IL-13 with TNSS tumor necrosis factor alpha interleukin IL -4 IL-6 and IL-17 associate while negatively IL-10 with and gamma interferon 	
+DDX11-AS1	DNMT1	inhibit migration Functionally the proliferation cell cycle progression and invasion cell of HCC be silence by DDX11-AS1 promote while expression by ectopic RIP of DDX11-AS1 RNA immunoprecipitation and assay chromatin immunoprecipitation ChIP validate suppress that DDX11-AS1 expression LATS2 interact by EZH2 with and DNMT1 cell in HCC 	
+DDX11-AS1	EZH2	inhibit migration Functionally the proliferation cell cycle progression and invasion cell of HCC be silence by DDX11-AS1 promote while expression by ectopic RIP of DDX11-AS1 RNA immunoprecipitation and assay chromatin immunoprecipitation ChIP validate suppress that DDX11-AS1 expression LATS2 interact by EZH2 with and DNMT1 cell in HCC 	
+MFI2-AS1	MYCBP	promote MFI2-AS1 LncRNA migration CRC cell proliferation and invasion activate through MYCBP and miR-574-5p by sponge 	
+FAF	FGF9	increase Moreover overexpression FAF of lncRNA could also expression the FGF9 of 	
+LINC00313	ALX4	probe We role into the specific LINC00313 of mediation in process of cellular cancer of thyroid include migration proliferation and invasion methylation through the ALX4 of aristaless-like homeobox 4 	
+LINC00313	ALX4	detect addition In binding the LINC00313 of and region the promoter ALX4 of and interaction the LINC00313 of protein with methylation-related be 	
+LINC00313	ALX4	manifest analysis The microarray-based overexpressed that LINC00313 be downregulated whereas ALX4 be cancer in thyroid result the verify which of be also tissue in thyroid cancer 	
+LINC00313	ALX4	demonstrate result Besides our bound that LINC00313 region to the ALX4 promoter and recruit LINC00313 proteins DNMT1 and DNMT3B promote to methylation the region of ALX4 promoter suppress thus expression the ALX4 	
+LINC00313	DNMT1	demonstrate result Besides our bound that LINC00313 region to the ALX4 promoter and recruit LINC00313 proteins DNMT1 and DNMT3B promote to methylation the region of ALX4 promoter suppress thus expression the ALX4 	
+LINC00313	DNMT3B	demonstrate result Besides our bound that LINC00313 region to the ALX4 promoter and recruit LINC00313 proteins DNMT1 and DNMT3B promote to methylation the region of ALX4 promoter suppress thus expression the ALX4 	
+LINC00313	ALX4	suppresses LINC00313 downregulated migration cell proliferation invasion as well a cancer of thyroid inhibit by methylation the ALX4 of and increase expression it inactivation by pathway of the AKT mTOR signal 	
+RHPN1-AS1	P53	deliver Knockdown RHPN1-AS1 of system by lentivirus inhibit proliferation MCF-7 cell indicate proliferation by the cell and assay colony formation and knockdown the RHPN1-AS1 of enhance expression P53 protein MCF-7 in and MDA-MB-231 cell 	
+RHPN1-AS1	P53	validate assay luciferase reporter sponge that RHPN1-AS1 be a molecular miR-4261 of and target direct transcriptional RHPN1-AS1 of c-Myc exerts tumorigenesis regulate by expression P53 gene via MDM2 	
+PYCARD-AS1	PYCARD	identify we lncRNA an antisense PYCARD-AS1 to the pro-apoptotic gene PYCARD name exhibit which distribution a dual nuclear and cytoplasmic and require be silencing for the PYCARD cell in breast cancer 	
+PYCARD-AS1	PYCARD	regulate PYCARD The control apoptosis be PYCARD-AS1 by regulate PYCARD-AS1 moreover apoptosis manner in a dependent PYCARD indicate target that PYCARD be a critical downstream PYCARD-AS1 of 	
+ROR	FOXM1	form sponging the miR-876-5p of FOXM1 by ROR release thereby loop a positive-feedback 	
+ROR	FOXM1	impair Upregulation FOXM1 of both and ROR sensitivity the sorafenib to cell in HCC 	
+ROR	FOXM1	result These reveal loop a novel molecular feedback ROR between and FOXM1 and elucidate function their sensitivity in sorafenib line of HCC cell 	
+H19	ITGB3	infer result From these we can operate that endometriosis in miR-124-3p both and ITGB3 protein a downstream effector pathway in the H19 signal 	
+H19	ITGB3	inhibit Down-regulation H19 of could proliferation ectopic endometrial cell and invasion modulate by offer miR-124-3p and ITGB3 target a novel treatment for 	
+MALAT1	eIF4E	demonstrate study In this we compete MALAT1 miR-497 repressed post-transcriptionally MALAT1 whilst also binding for miR-497 it to 4E molecular target eIF4E eukaryotic translation initiation factor 	
+MALAT1	SFPQ	indicate bind Furthermore MALAT1 directly Proline to SFPQ Splicing Factor and protein Glutamine Rich role it multifaceted pathophysiology in ACC 	
+MALAT1	ZEB2	inhibit MALAT1 Knockdown or ZEB2 EMT HG-induced and fibrosis similar miR-145 to 	
+MALAT1	ZEB2	induce function Mechanistically MALAT1 RNA a a sponge miR-145 for derepress to expression the ZEB2 of target gene thereby EMT and fibrosis 	
+H19	NADPH	aim This study participation at the oxidases of lncRNA H19 endothelial NADPH NOX4 and mir-148b stress in hypoxia HHSEC in human hepatic sinusoidal endothelial cell and clarify relationship the them among 	
+H19	NOX4	measure expression The NOX4 of lnc H19 and mir-148b patient in cirrhotic and HHSEC hypoxic be RT-PCR by 	
+H19	NOX4	indicate result The present increase that expression the mRNA of NOX4 and H19 lnc be but decrease mir-148b be patient in both cirrhotic and HHSEC hypoxic 	
+H19	NOX4	be NOX4 In addition regulate a direct regulate negatively target mir-148b of and mir-148b be negatively H19 by lnc 	
+H19	NOX4	regulator Collectively H19 lnc be a negatively mir-148b of and participate stress in hypoxia HHSEC in regulate via positively NOX4 and regulate negatively signaling eNOS NO 	
+AFAP1-AS1	RBM5	upregulated Moreover mRNA the and protein expression RBM5 of be knock after AFAP1-AS1 be down 	
+AFAP1-AS1	RBM5	relate Furthermore level the RBM5 expression be negatively level to AFAP1-AS1 expression AFAP1-AS1 in prostate cancer sample act oncogene a an cancer in prostate enhance by metastasis cell and proliferation suppress via RBM5 strategy which might be a novel therapeutic treatment in cancer for prostate 	
+LUCAT1	KISS1	downregulated addition In mRNA the and protein expression KISS1 of be overexpression after LUCAT1 	
+LUCAT1	KISS1	relate level the expression KISS1 of be negatively level to the expression LUCAT1 of LUCAT1 in prostate cancer tissue enhance could migration and invasion cell of prostate cancer regulate by KISS1 offer which might target a potential therapeutic cancer for prostate 	
+LINC00460	AKT	conduct experiment Gain - and loss-of function be analyze to effect miR-206 of LINC00460 and STC2 expression on the protein of apoptosis-related protein autophagy-related and extent the phosphorylation of AKT ERK 	
+LINC00460	ERK	conduct experiment Gain - and loss-of function be analyze to effect miR-206 of LINC00460 and STC2 expression on the protein of apoptosis-related protein autophagy-related and extent the phosphorylation of AKT ERK 	
+LINC00460	STC2	express evaluate apoptosis Cell cycle distribution and production the autophagosomes of transfection after be explore to far role the axis of LINC00460 miR-206 STC2 LINC00460 in HNSCC and STC2 be highly express while miR-206 be poorly HNSCC in 	
+LINC00460	STC2	find miR-206 Besides be bind to LINC00460 to both and STC2 	
+AFAP1-AS1	LSD1	report Here we overexpressed that recruiting AFAP1-AS1 and bind LSD1 to lysine-specific demethylase 1 be generally use in human non-small-cell lung cancer NSCLC tissue PCR quantitative real-time 	
+AFAP1-AS1	LSD1	include Moreover investigation mechanistic validate immunoprecipitation RNA and assay ChIP repress that AFAP1-AS1 expression protein HMG box-containing 1 HBP1 recruit by LSD1 region to the HBP1 promoter PC-9 in and H1975 cell 	
+AFAP1-AS1	HBP1	include Moreover investigation mechanistic validate immunoprecipitation RNA and assay ChIP repress that AFAP1-AS1 expression protein HMG box-containing 1 HBP1 recruit by LSD1 region to the HBP1 promoter PC-9 in and H1975 cell 	
+AFAP1-AS1	HBP1	dependent effect the oncogenic AFAP1-AS1 of be partially silencing on the epigenetic HBP1 of 	
+AFAP1-AS1	HBP1	indicate conclusion In result our carcinogenic that AFAP1-AS1 be and constitute that axis the AFAP1-AS1 LSD1 HBP1 could direction a new therapeutic NSCLC for 	
+AFAP1-AS1	LSD1	indicate conclusion In result our carcinogenic that AFAP1-AS1 be and constitute that axis the AFAP1-AS1 LSD1 HBP1 could direction a new therapeutic NSCLC for 	
+ncRAN	JNK	abolish inhibitor Besides miR-146a-5p function the knockdown of ncRAN regulate JNK on cell injury and pathways NF - B ncRAN injury LPS-induced inflammation cell in WI-38 bind through competitively miR-146a-5p CCL5 with mediate far JNK and pathway NF - B shed which light novel diagnostics on and therapeutic pneumonia in 	
+ncRAN	CCL5	abolish inhibitor Besides miR-146a-5p function the knockdown of ncRAN regulate JNK on cell injury and pathways NF - B ncRAN injury LPS-induced inflammation cell in WI-38 bind through competitively miR-146a-5p CCL5 with mediate far JNK and pathway NF - B shed which light novel diagnostics on and therapeutic pneumonia in 	
+H19	Igf2	clear However it be not entirely relate whether impairment the ovary of TCDD by be pattern to the methylation Igf2 of and H19 ICR 	
+SNHG1	Akt	aim study The present explore to involvement the gene of lncRNA SNHG1 small nucleolar RNA host 1 resistance in sorafenib and associate how SNHG1 be miR-21 with overexpressed microRNA-21 and pathway the activated Akt demonstrate which have be mediate to resistance this cell in HCC 	
+LINC00511	CDK6	remain However effect the RNA of long intergenic noncoding 00511 LINC00511 lncRNA a identify newly oncogenic resistance on the drug cell of breast cancer perform RT-qPCR unknown be detect to expression the miR-29c of LINC00511 and kinase cyclin dependent 6 CDK6 tissue in breast cancer and cell 	
+NEAT1	SFPQ	contains particular In domain the central C subdomains small site that be high-affinity binding NONO for the essential paraspeckle protein and SFPQ polymerize that subsequently NEAT1 along 	
+NEAT1	NONO	contains particular In domain the central C subdomains small site that be high-affinity binding NONO for the essential paraspeckle protein and SFPQ polymerize that subsequently NEAT1 along 	
+lnc-TIGD1L2-3	NaOx	induce miRNAs Five mRNAs four and lnc-MB-6 six lncRNAs lnc-TIGD1L2-3 KIN-1 lnc-FAM72B-4 lnc-EVI5L-1 lnc-SERPINI1-2 cell from the HK-2 NaOx by consistent be change with the expression result of microarray 	
+KIN-1	NaOx	induce miRNAs Five mRNAs four and lnc-MB-6 six lncRNAs lnc-TIGD1L2-3 KIN-1 lnc-FAM72B-4 lnc-EVI5L-1 lnc-SERPINI1-2 cell from the HK-2 NaOx by consistent be change with the expression result of microarray 	
+lnc-MB-6	NaOx	induce miRNAs Five mRNAs four and lnc-MB-6 six lncRNAs lnc-TIGD1L2-3 KIN-1 lnc-FAM72B-4 lnc-EVI5L-1 lnc-SERPINI1-2 cell from the HK-2 NaOx by consistent be change with the expression result of microarray 	
+LINC00467	DKK1	locate Furthermore LINC00467 be nucleus in the line of LUAD cell and regulate negatively DKK1 cell in LUAD 	
+LINC00467	DKK1	promote upregulation STAT1-induced LINC00467 of progression LUAD DKK1 by epigenetically silence activate to Wnt - pathway catenin signal 	
+H19	C8orf4	evaluate effect The dynamic H19 of and miR-30a mRNA on C8orf4 messenger RNA expression and protein and differentiation adipogenic be regulate miR-30a negatively H19 other with each binding through direct 	
+H19	C8orf4	serve H19 The lncRNA ceRNA a a compete endogenous RNA miR-30a for augment to C8orf4 miR-30a downstream target modulate therefore differentiation adipogenic hADSCs in 	
+CHRF	p65	identify Furthermore miR-146a be regulate to be negatively CHRF by lncRNA and abrogate it overexpression role the CHRF of lncRNA IL-6-induced in IL-6-treated cell facilitate accumulation the JAK1 of I B p65 and STAT3 level at phosphorylated be far CHRF by lncRNA repress whereas miR-146a by 	
+H19	PI3K	protein The total AKT of PI3K and mTOR show in the H19 knockout resistant cell change no significant those relative to cell in the H19 non-knockout resistant decrease whereas protein the phosphorylated AKT of PI3K and mTOR be significantly 	
+H19	AKT	protein The total AKT of PI3K and mTOR show in the H19 knockout resistant cell change no significant those relative to cell in the H19 non-knockout resistant decrease whereas protein the phosphorylated AKT of PI3K and mTOR be significantly 	
+H19	mTOR	protein The total AKT of PI3K and mTOR show in the H19 knockout resistant cell change no significant those relative to cell in the H19 non-knockout resistant decrease whereas protein the phosphorylated AKT of PI3K and mTOR be significantly 	
+BWS	IGF2	result These raise possibility the cause that modifier a defective or gene regulatory unlinked 11p15 to 5 spectrum a alteration of epigenetic line in the germ or development early range of both cousin relaxation from the imprint of IGF2 proband in the KTWS disruption to expression of both the imprinted IGF2 of and methylation the imprinted KvDMR1 of proband in the BWS 	
+H19	IGF2	include indicate Analysis data of these also link that loss imprinting of IGF2 be not necessarily alteration to methylation of locus at the KvDMR1 or H19 and support observe notion the involve that overexpression IGF2 be etiology in the hypertrophy of the tissue disorder in different overgrowth KTWS 	
+H19	IGF2	transcribe IGF2 In most tissue be transcribe only chromosome from the paternal while H19 be allele only from the maternal 	
+H19	IGF2	include number A gene of imprint IGF2 and H19 be normally expression with preferential allele of the paternal or maternal respectively 	
+ncRAN	E2F5	serve indicate Taken together finding our induces that ncRAN migration breast cancer cell bind by competitively miR-98 E2F5 with and ncRAN can target a a potential therapeutic treatment for breast cancer 	
+LINC00672	LASP1	p53 Nevertheless LINC00672 be a - targeting act lincRNA ribonucleoproteins along with heterogeneous nuclear a lower cofactor a suppressive reinforce which locally suppression p53-mediated LASP1 of gene an conserve evolutionarily neighboring LINC00672 of and associate putatively aggressiveness with increased tumor overexpression during anti-tumor process LINC00672 could level the LASP1 of and increase slow development the phenotype of malignant EC of and both vitro in vivo in LINC00672 Moreover significantly concentration the 50 inhibitory paclitaxel of cell in EC and increase sensitivity the mouse of xenograft paclitaxel to 	
+LINC00672	p53	p53 Nevertheless LINC00672 be a - targeting act lincRNA ribonucleoproteins along with heterogeneous nuclear a lower cofactor a suppressive reinforce which locally suppression p53-mediated LASP1 of gene an conserve evolutionarily neighboring LINC00672 of and associate putatively aggressiveness with increased tumor overexpression during anti-tumor process LINC00672 could level the LASP1 of and increase slow development the phenotype of malignant EC of and both vitro in vivo in LINC00672 Moreover significantly concentration the 50 inhibitory paclitaxel of cell in EC and increase sensitivity the mouse of xenograft paclitaxel to 	
+LINC00672	LASP1	indicate finding These influence that LINC00672 can expression LASP1 malignancy a cofactor a locus-restricted suppression for p53-mediated gene thus impact EC and chemosensitivity paclitaxel to 	
+HOTAIR	SRF	counteract Moreover silencing SRF of either or HOTAIR could promotion the proliferation of gastric adenocarcinoma cell and invasion inhibition by miR-101-3p 	
+CASC2	CPEB1	promote Overexpression CASC2 of characteristic the malignant CASC2 of astrocytoma cell bind directly miR-101 and mediate processing pre-miR-101 miR-101 into mature and function competitor a a gene of miR-101 target CPEB1 such a 	
+LINC01213	NRAS	correlate Meanwhile LINC01133 LINC01213 and LOC284578 be mutation with BRAF and PGM5-AS1 relate be mutation to NRAS 	
+LINC01133	NRAS	correlate Meanwhile LINC01133 LINC01213 and LOC284578 be mutation with BRAF and PGM5-AS1 relate be mutation to NRAS 	
+LOC284578	NRAS	correlate Meanwhile LINC01133 LINC01213 and LOC284578 be mutation with BRAF and PGM5-AS1 relate be mutation to NRAS 	
+PVT1	CD151	evaluate effect The PVT1 of expression on the CD151 of and FGF2 be PVT1 by Western blot up-regulated be tissue in GC that than tissue in the matched normal and level mRNA miR-152 of decrease be 	
+PVT1	FGF2	evaluate effect The PVT1 of expression on the CD151 of and FGF2 be PVT1 by Western blot up-regulated be tissue in GC that than tissue in the matched normal and level mRNA miR-152 of decrease be 	
+MALAT1	JAG1	inhibit MALAT1 growth tongue cancer cell and metastasis regulation through miR-124-dependent JAG1 	
+SNHG1	p53	retain treatment Upon doxorubicin SNHG1 the lncRNA be nucleus in the it through binding nucleolin with and compete it p53 with binding for hnRNPC upregulates which level p53 and promote apoptosis p53-dependent impair by regulation hnRNPC activity of p53 	
+SNHG1	p53	indicate result Our regulates that balance a SNHG1 between lncRNA and hnRNPC activity p53 and apoptosis p53-dependent treatment upon doxorubicin and indicate further significant that change a localization in lncRNA subcellular circumstance under specific be biologically 	
+SNHG20	ZEB1	use analysis Kaplan-Meier survival and test log-rank be perform reveal to association the expression between SNHG20 and time the overall survival proliferation in HCC patient CCK8 cell and assay transwell invasion be analyze to perform proliferation the cell and QRT-PCR cell invasion ability and analysis western-blotting be demonstrate to level the mRNA and expression protein ZEB2 of ZEB1 and N-cadherin relative epithelial-to-mesenchymal transition EMT marker E-cadherin and Vimentin 	
+SNHG20	ZEB2	use analysis Kaplan-Meier survival and test log-rank be perform reveal to association the expression between SNHG20 and time the overall survival proliferation in HCC patient CCK8 cell and assay transwell invasion be analyze to perform proliferation the cell and QRT-PCR cell invasion ability and analysis western-blotting be demonstrate to level the mRNA and expression protein ZEB2 of ZEB1 and N-cadherin relative epithelial-to-mesenchymal transition EMT marker E-cadherin and Vimentin 	
+SNHG20	ZEB1	inhibit Furthermore knockdown SNHG20 of N-cadherin ZEB1 ZEB2 and expression Vimentin and up-regulated expression the E-cadherin cell in HCC 	
+SNHG20	ZEB2	inhibit Furthermore knockdown SNHG20 of N-cadherin ZEB1 ZEB2 and expression Vimentin and up-regulated expression the E-cadherin cell in HCC 	
+SNHG20	EZH2	reveal investigation Mechanistic bind that SNHG20 could enhancer to homolog of zeste 2 EZH2 and regulate expression E-cadherin 	
+HAS1	PCNA	reveal analysis Western-blotting inhibit that knockdown HAS1 of cyclin-D1 the cycle relative protein and expression PCNA cell in HCC 	
+HAS1	NKD1	show RIP Mechanism RNA immunoprecipitation and assay Chromatin immunoprecipitation ChIP promote that interact by enhancer with HAS1 of zeste homolog 2 EZH2 proliferation HCC cell repress by expression the NKD1 and p21 	
+HAS1	p21	show RIP Mechanism RNA immunoprecipitation and assay Chromatin immunoprecipitation ChIP promote that interact by enhancer with HAS1 of zeste homolog 2 EZH2 proliferation HCC cell repress by expression the NKD1 and p21 	
+NEAT1	p53	reveal analysis In this study data of next-generation chromatin immunoprecipitation-sequencing ChIP-seq p53 for target that NEAT1 the lncRNA be a direct transcriptional p53 of 	
+NEAT1	p53	attenuates suppression The induction of NEAT1 p53 by effect the inhibitory p53 of growth on cancer cell and modulate also include transactivation gene that lncRNAs of many 	
+Linc00441	RB1	find We correlate that Linc00441 aberrant upregulated intranuclear be reversely expression with RB1 sample in human HCC 	
+Linc00441	RB1	cutting-point conclusion In interaction the epigenetic Linc00441 between and RB1 bidirectional transcripted neighbor may be a de novo theory inactivation for the RB1 of HCC in and serve may site a target therapy for tumor future in the 	
+lncRNA-MODR	RUNX2	upregulated lncRNA-MODR be gradually overexpression during osteogenic differentiation lncRNA-MODR upregulated decrease whereas silencing lncRNA-MODR expression the factor of the osteogenic key marker runt-related transcription 2 RUNX2 	
+lncRNA-MODR	RUNX2	act lncRNA-MODR sponge a a molecular miR-454 for microRNA-454 and prevents that RUNX2 mi-454 from mediate suppression 	
+H19	Igf2	imprinted factor Insulin-like growth 2 Igf2 and gene H19 be oppositely and gene a such have be extensively most study imprint genetically both and level at the molecular 	
+H19	IGF2	reveal Examination precursor of individual bone-marrow co-expressed that IGF2 all - expressing precursor haematopoietic also H19 indicating co-ordinately that H19 and IGF2 may be regulate haematopoiesis during 	
+KvLQT1	KvDMR1	display patient The BWS with also hypomethylation KvDMR1 at island a methylated maternally CpG intron within an gene of the KvLQT1 	
+H19	Igf2	lie Igf2 The mouse and gene H19 70-kb apart chromosome on 7 and imprint be reciprocally 	
+H19	Igf2	activate enhancer The specifically Igf2 chromosome on the paternal and H19 chromosome on the maternal 	
+H19	IGF2	participate H19 repression in the IGF2 of part at least in effect through transcription on IGF2 effect an contribute which may action to it suppressor a a tumor 	
+H19	IGF2	characterize Rhabdomyosarcomas be loss by LOH of heterozygosity region at chromosome region 11p15 5 a know contain to gene several imprint include factor insulin-like growth H19 2 IGF2 and KIP2 p57 	
+H19	p57	characterize Rhabdomyosarcomas be loss by LOH of heterozygosity region at chromosome region 11p15 5 a know contain to gene several imprint include factor insulin-like growth H19 2 IGF2 and KIP2 p57 	
+Xist	Dnmt1	indicate Demethylation 5-azadC of DNA use or introduce by mutation a Dnmt1 in and inhibition trichostatin of histone hypoacetylation use reactivation A further increase fibroblast in Xist mutant interaction a synergistic mechanism of X chromosome silence 	
+H19	CDKN1C	observe include expression Aberrant gene of multiple imprinted KCNQ1OT1 H19 IGF2 and CDKN1C have be patient in BWS 	
+H19	IGF2	observe include expression Aberrant gene of multiple imprinted KCNQ1OT1 H19 IGF2 and CDKN1C have be patient in BWS 	
+KCNQ1OT1	CDKN1C	observe include expression Aberrant gene of multiple imprinted KCNQ1OT1 H19 IGF2 and CDKN1C have be patient in BWS 	
+KCNQ1OT1	IGF2	observe include expression Aberrant gene of multiple imprinted KCNQ1OT1 H19 IGF2 and CDKN1C have be patient in BWS 	
+H19	CDKN1C	report This be the first analysis of an status of the imprint gene of region in the 11p15 associate where mutation CDKN1C be loss with IGF2 of imprinting and maintenance H19 of and KCNQ1OT1 imprinting 	
+H19	IGF2	report This be the first analysis of an status of the imprint gene of region in the 11p15 associate where mutation CDKN1C be loss with IGF2 of imprinting and maintenance H19 of and KCNQ1OT1 imprinting 	
+KCNQ1OT1	CDKN1C	report This be the first analysis of an status of the imprint gene of region in the 11p15 associate where mutation CDKN1C be loss with IGF2 of imprinting and maintenance H19 of and KCNQ1OT1 imprinting 	
+KCNQ1OT1	IGF2	report This be the first analysis of an status of the imprint gene of region in the 11p15 associate where mutation CDKN1C be loss with IGF2 of imprinting and maintenance H19 of and KCNQ1OT1 imprinting 	
+Xist	G6PD	be objective The study of the present determine to effect the IVP of in vitro production and NT nuclear transfer RA on the relative abundance PGK of the X-linked transcript G6PD and Xist embryo in preimplantation bovine 	
+Xist	PGK	be objective The study of the present determine to effect the IVP of in vitro production and NT nuclear transfer RA on the relative abundance PGK of the X-linked transcript G6PD and Xist embryo in preimplantation bovine 	
+H19	Igf2	resistant region The nonmethylated imprinted Igf2 of and H19 be methylation to level at low Dnmt1 but methylated become fully overexpressed when Dnmt1 be transgene from a bacterial artificial chromosome 	
+H19	Dnmt1	resistant region The nonmethylated imprinted Igf2 of and H19 be methylation to level at low Dnmt1 but methylated become fully overexpressed when Dnmt1 be transgene from a bacterial artificial chromosome 	
+H19	EGF	stimulate activity H19 promoter be efficient use by various growth factor transfection transient SF in MDCK epithelial cell HGF be more EGF than or FGF-2 transactivating in promoter the H19 ineffective whereas TGFbeta-1 IGF-2 and TNF-alpha be 	
+H19	FGF-2	stimulate activity H19 promoter be efficient use by various growth factor transfection transient SF in MDCK epithelial cell HGF be more EGF than or FGF-2 transactivating in promoter the H19 ineffective whereas TGFbeta-1 IGF-2 and TNF-alpha be 	
+H19	Snrpn	determine To commence when development in germ cell phenomenon this biallelic expression isolate we migrate PGCs cytometry by flow and determine expression the allele-specific H19 of four imprinted gene Snrpn Igf2 and Igf2r 	
+H19	Igf2	determine To commence when development in germ cell phenomenon this biallelic expression isolate we migrate PGCs cytometry by flow and determine expression the allele-specific H19 of four imprinted gene Snrpn Igf2 and Igf2r 	
+H19	Igf2r	determine To commence when development in germ cell phenomenon this biallelic expression isolate we migrate PGCs cytometry by flow and determine expression the allele-specific H19 of four imprinted gene Snrpn Igf2 and Igf2r 	
+H19	L23mrp	contain region the intergenic H19 between and L23mrp boundary a or element an insulator 	
+H19	Igf2	transcribe Igf2 be allele from the inherit paternally transcribe whereas H19 the link be allele from the maternal 	
+2G7	MRPL23	suggest describe We previously express three biallelically 2G7 gene MRPL23 and TNNT3 kb in 100 DNA of downstream immediately gene of the imprinted H19 that mark H19 border one region of the imprinted 	
+2G7	TNNT3	suggest describe We previously express three biallelically 2G7 gene MRPL23 and TNNT3 kb in 100 DNA of downstream immediately gene of the imprinted H19 that mark H19 border one region of the imprinted 	
+H19	MRPL23	suggest describe We previously express three biallelically 2G7 gene MRPL23 and TNNT3 kb in 100 DNA of downstream immediately gene of the imprinted H19 that mark H19 border one region of the imprinted 	
+H19	TNNT3	suggest describe We previously express three biallelically 2G7 gene MRPL23 and TNNT3 kb in 100 DNA of downstream immediately gene of the imprinted H19 that mark H19 border one region of the imprinted 	
+H19	DUSP8	locate orthologue The mouse DUSP8 of a third gene H19 between and MUCDHL express be also biallelically 	
+H19	MUCDHL	locate orthologue The mouse DUSP8 of a third gene H19 between and MUCDHL express be also biallelically 	
+H19	PEG3	demonstrate Using method two bisulfite-based we trend a general hypomethylation of abnormal PEG3 at the express paternally gene and SNRPN and hypermethylation NESP55 at the express maternally gene and H19 BiCHMs in four two to 	
+H19	SNRPN	demonstrate Using method two bisulfite-based we trend a general hypomethylation of abnormal PEG3 at the express paternally gene and SNRPN and hypermethylation NESP55 at the express maternally gene and H19 BiCHMs in four two to 	
+H19	NESP55	demonstrate Using method two bisulfite-based we trend a general hypomethylation of abnormal PEG3 at the express paternally gene and SNRPN and hypermethylation NESP55 at the express maternally gene and H19 BiCHMs in four two to 	
+KvDMR1	KCNQ1	absence associate The frequent most alteration BWS with be the methylation of allele at the maternal KvDMR1 of island an intronic CpG gene within the KCNQ1 	
+XIST	RPS4Y	contribute pattern The distinctive expression of neuronal SMCY of XIST RPS4Y and UTY and gene other sex chromosome subpopulation in neuronal may possibly gender to difference note in prevalence disorder for some neuropsychiatric 	
+XIST	SMCY	contribute pattern The distinctive expression of neuronal SMCY of XIST RPS4Y and UTY and gene other sex chromosome subpopulation in neuronal may possibly gender to difference note in prevalence disorder for some neuropsychiatric 	
+XIST	UTY	contribute pattern The distinctive expression of neuronal SMCY of XIST RPS4Y and UTY and gene other sex chromosome subpopulation in neuronal may possibly gender to difference note in prevalence disorder for some neuropsychiatric 	
+H19	Igf2	gene Igf2 and H19 be physically link imprint 	
+H19	VDUP1	show investigation Further number in a high adenocarcinoma of that group in the high-fat n-6 diet verify where phenotype the tumor be aggressive to be more expression the D of submaxillary gland alpha-2u globulin vitamin 3 - H19 upregulated protein 1 VDUP1 and gene the unknown function codify that EST the expressed sequence tag - decrease Rn32385 be significantly comparison in C with the control group 	
+H19	VDUP1	result These together fact with the associate that H19 VDUP1 and globulin this have be cell with proliferation and differentiation open line a new research of contributes about how underexpression the gene of these effect to the stimulate diet of a high corn oil carcinogenesis on experimental mammary 	
+H19	OCT4	examine We effect the antibody of occludin permeability on blastocoel formation blastocyst and expression H19 of and marker OCT4 differentiation of TE and pluripotency blastomere respectively 	
+H19	OCT4	time At the same increase OCT4 expression become while expression H19 of detectable barely 	
+H19	Igf2r	examine determine To establish whether imprinting primary maternal have be oocyte in the derive PE from ng fg we status the DNA methylation region in methylated differentially Lit1 of three imprinted gene Igf2r and H19 	
+Lit1	Igf2r	examine determine To establish whether imprinting primary maternal have be oocyte in the derive PE from ng fg we status the DNA methylation region in methylated differentially Lit1 of three imprinted gene Igf2r and H19 	
+H19	Ascl2	preserve activation Placental tissue display allele of the silent normally Peg3 for H19 Ascl2 Snrpn and Xist while expression in the embryo proper imprint part for the most be 	
+H19	Snrpn	preserve activation Placental tissue display allele of the silent normally Peg3 for H19 Ascl2 Snrpn and Xist while expression in the embryo proper imprint part for the most be 	
+H19	Xist	preserve activation Placental tissue display allele of the silent normally Peg3 for H19 Ascl2 Snrpn and Xist while expression in the embryo proper imprint part for the most be 	
+H19	Snrpn	erase methylation be H19 on Rasgrf1 and Snrpn e125 at but retain that Gtl2 methylation substantial stage at this 	
+H19	NDN	know SNRPN Four gene NDN Necdin H19 and IGF2 imprint to be mouse in and human select be study for monkey in rhesus ICs along with two imprint centre employ associate regulation with the NDN of H19 IGF2 and GAPD SNRPN be gene a a non-imprinted control 	
+H19	SNRPN	know SNRPN Four gene NDN Necdin H19 and IGF2 imprint to be mouse in and human select be study for monkey in rhesus ICs along with two imprint centre employ associate regulation with the NDN of H19 IGF2 and GAPD SNRPN be gene a a non-imprinted control 	
+H19	IGF2	know SNRPN Four gene NDN Necdin H19 and IGF2 imprint to be mouse in and human select be study for monkey in rhesus ICs along with two imprint centre employ associate regulation with the NDN of H19 IGF2 and GAPD SNRPN be gene a a non-imprinted control 	
+JADE	Jade1	activate JADE transcriptionally Jade1 component a key binding in the HBO1 human acetylase complex to ORC1 histone acetylation 	
+JADE	HBO1	activate JADE transcriptionally Jade1 component a key binding in the HBO1 human acetylase complex to ORC1 histone acetylation 	
+SOX2OT	SOX2	evaluate Here we have correlation a possible pattern between expression SOX2OT of and those regulator of master SOX2 of pluripotency and OCT4 sample in esophageal squamous cell carcinoma ESCC tissue 	
+SOX2OT	OCT4	evaluate Here we have correlation a possible pattern between expression SOX2OT of and those regulator of master SOX2 of pluripotency and OCT4 sample in esophageal squamous cell carcinoma ESCC tissue 	
+SOX2OT	OCT4	reveal data Our upregulation a significant co SOX2OT of SOX2 along with and OCT4 sample in tumor compare tissue to the non-tumor obtain margin from the tumor of same 	
+SOX2OT	SOX2	reveal data Our upregulation a significant co SOX2OT of SOX2 along with and OCT4 sample in tumor compare tissue to the non-tumor obtain margin from the tumor of same 	
+HOTTIP	HOXA13	Here correlate by data clinicopathological and expression demonstrate we associate that level the HOTTIP of and HOXA13 be progression with HCC patient clinical and predict outcome disease 	
+Malat1	YAP	Taken together provide data these underlie mechanism a novel balance the YAP between SRSF1 and Malat1 and uncover role a new YAP of regulate in lncRNA long non-coding RNA 	
+Malat1	SRSF1	Taken together provide data these underlie mechanism a novel balance the YAP between SRSF1 and Malat1 and uncover role a new YAP of regulate in lncRNA long non-coding RNA 	
+H19	Peg3	assess degree The methylation of and mRNA expression Ndn of H19 Peg3 and Snrpn be sperm in paternal and cortex in the cerebral offspring of each 	
+H19	Ndn	assess degree The methylation of and mRNA expression Ndn of H19 Peg3 and Snrpn be sperm in paternal and cortex in the cerebral offspring of each 	
+H19	Snrpn	assess degree The methylation of and mRNA expression Ndn of H19 Peg3 and Snrpn be sperm in paternal and cortex in the cerebral offspring of each 	
+H19	Peg3	change affect It do methylation H19 in paternal sperm and Peg3 and CpG7 in the offspring s cerebral cortex and CpG11 Peg3 in and Snrpn but level the expression of mRNA have not 	
+H19	Snrpn	change affect It do methylation H19 in paternal sperm and Peg3 and CpG7 in the offspring s cerebral cortex and CpG11 Peg3 in and Snrpn but level the expression of mRNA have not 	
+H19	CpG7	change affect It do methylation H19 in paternal sperm and Peg3 and CpG7 in the offspring s cerebral cortex and CpG11 Peg3 in and Snrpn but level the expression of mRNA have not 	
+H19	CpG11	change affect It do methylation H19 in paternal sperm and Peg3 and CpG7 in the offspring s cerebral cortex and CpG11 Peg3 in and Snrpn but level the expression of mRNA have not 	
+NEAT1	SFPQ	show Together data our play that NEAT1 role an important response in the innate immune regulation through the transcriptional gene of antiviral action by the stimulus-responsive cooperative NEAT1 of and SFPQ 	
+CDKN2BAS	CDKN2A	study aim Therefore we study to expression the CDKN2A of the INK4 ARF locus gene and CDKN2BAS examine in order to expression the p16 INK4a protein and level the proliferation of cell plaque in carotid and total saphenous tissue sample A patient of 50 subject 33 symptomatic and subject 17 asymptomatic CA with carotid atherosclerosis be 	
+linc-POU3F3	EZH2	associate linc-POU3F3 In RNA immunoprecipitation assay be mRNA with the EZH2 messenger RNA 	
+H19	Snrpn	unaffected expression The normal monoallelic Snrpn of the imprinted gene H19 and Kcnq1ot1 be placenta in either the or embryo the female from the superovulated E145 at or E185 	
+Kcnq1ot1	Snrpn	unaffected expression The normal monoallelic Snrpn of the imprinted gene H19 and Kcnq1ot1 be placenta in either the or embryo the female from the superovulated E145 at or E185 	
+TUG1	HOXB7	demonstrate upregulate Interestingly inhibition TUG1 of could assay homeobox B7 HOXB7 expression ChIP bind that promoter the locus of HOXB7 be enhancer by EZH2 homolog of zeste 2 component a key PRC2 of and H3K27 be trimethylated 	
+TUG1	EZH2	demonstrate upregulate Interestingly inhibition TUG1 of could assay homeobox B7 HOXB7 expression ChIP bind that promoter the locus of HOXB7 be enhancer by EZH2 homolog of zeste 2 component a key PRC2 of and H3K27 be trimethylated 	
+TUG1	ChIP	demonstrate upregulate Interestingly inhibition TUG1 of could assay homeobox B7 HOXB7 expression ChIP bind that promoter the locus of HOXB7 be enhancer by EZH2 homolog of zeste 2 component a key PRC2 of and H3K27 be trimethylated 	
+TUG1	HOXB7	suggest Together result these regulator that TUG1 p53 - regulated be a growth act which part in control through HOXB7 of 	
+lincRNA-p21	p53	indicate finding These affect that lincRNA-p21 expression global gene and influence pathway the p53 tumor suppressor act by ci in coactivator a a locus-restricted expression for p53-mediated p21 	
+MEG3	p53	activate Finally MEG3 p53 cell in OVCAR3 	
+UCA1	hnRNPA1	find cell In proliferate we bind that hnRNPA1 and destabilize mRNA CDKN2A sequesters whereas UCA1 during senescence hnRNPA1 and stabilizes thus CDKN2A 	
+FOXCUT	FOXC1	down-regulated When expression the FOXCUT of be by small interfere siRNA RNA decrease expression the FOXC1 of be also 	
+LEF1NAT	PTEN	analysis interaction The miR-544a between LEF1NAT and PTEN be probe use bioinformatical and assay dual-luciferase 	
+SNHG15	MYC	perform analysis Gene expression inhibition upon SNHG15 show implicate change gene in multiple relevant progression in cancer include BAG3 MYC NRAS or ERBB3 	
+SNHG15	NRAS	perform analysis Gene expression inhibition upon SNHG15 show implicate change gene in multiple relevant progression in cancer include BAG3 MYC NRAS or ERBB3 	
+SNHG15	BAG3	perform analysis Gene expression inhibition upon SNHG15 show implicate change gene in multiple relevant progression in cancer include BAG3 MYC NRAS or ERBB3 	
+SNHG15	ERBB3	perform analysis Gene expression inhibition upon SNHG15 show implicate change gene in multiple relevant progression in cancer include BAG3 MYC NRAS or ERBB3 	
+SMIM31	AGR2	determine pattern The expression miR-143 of SMIM31 and AGR2 cancer in both pancreatic and tissue adjacent be then 	
+MALAT1	RPL19	RP11-206M117 lncRNAs The high expressed be MALAT1 U85 and NEAT1 and FTL mRNAs the high express be RPL19 SCGB2A2 and TMSB4X 	
+MALAT1	SCGB2A2	RP11-206M117 lncRNAs The high expressed be MALAT1 U85 and NEAT1 and FTL mRNAs the high express be RPL19 SCGB2A2 and TMSB4X 	
+MALAT1	FTL	RP11-206M117 lncRNAs The high expressed be MALAT1 U85 and NEAT1 and FTL mRNAs the high express be RPL19 SCGB2A2 and TMSB4X 	
+U85	RPL19	RP11-206M117 lncRNAs The high expressed be MALAT1 U85 and NEAT1 and FTL mRNAs the high express be RPL19 SCGB2A2 and TMSB4X 	
+U85	SCGB2A2	RP11-206M117 lncRNAs The high expressed be MALAT1 U85 and NEAT1 and FTL mRNAs the high express be RPL19 SCGB2A2 and TMSB4X 	
+U85	FTL	RP11-206M117 lncRNAs The high expressed be MALAT1 U85 and NEAT1 and FTL mRNAs the high express be RPL19 SCGB2A2 and TMSB4X 	
+CTXND1	MST1	reveal Moreover investigation mechanistic inhibit that overexpression CTXND1 translocation nuclear YAP of induce by expression MST1 and promote phosphorylation LATS1 of and YAP downregulating consequently expression the MCM7 of cell cycle regulatory protein and D1 cyclin 	
+HOTAIR	STAT3	reveal analysis Further promoter of the HOTAIR of regulate that STAT3 could potentially activity the HOTAIR of the cell in cervical cancer and inhibition STAT3 of have effect similar migration on the proliferation and invasion cell of the cervical cancer that a HOTAIR of 	
+HOTAIR	STAT3	associate Further suppression the expression of STAT3 be downregulation with concomitant HOTAIR of IncRNA indicate a qRT-PCR by the 	
+HULC	CDKN1	Deletion of heighten erase HULC growth the cell accelerate follow follow CDKN1 low dose irradiation exposure down-regulated gene the neighbor HULC of be overexpression by HULC of exposure low dose irradiation result via complementary base pair promote in process cell cycle 	
